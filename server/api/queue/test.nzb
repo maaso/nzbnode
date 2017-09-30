@@ -1,0 +1,1409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nzb PUBLIC "-//newzBin//DTD NZB 1.1//EN" "http://www.newzbin.com/DTD/nzb/nzb-1.1.dtd">
+<nzb xmlns="http://www.newzbin.com/DTD/2003/nzb">
+
+<head>
+ <meta type="category">Apps &gt; ISO</meta>
+ <meta type="name">Ubuntu-16.04.1-server-I386</meta>
+</head>
+
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863946" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.10&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="793232" number="1">QSNMeXk6A4DLQ@1470863940.40912xB6sstMcGYOogxxD</segment>
+  <segment bytes="793647" number="2">S7nkN2cMqHX@1470863940.40916M9WBCKrpkt2eSCn45re</segment>
+  <segment bytes="793245" number="3">e95eLSqpUhSEoxvZHadS@1470863940.409213dcdkGwo4ftqOFw8OzKt</segment>
+  <segment bytes="793254" number="4">KqxPfXJ7cE@1470863940.40925Yfu3KixDjx5</segment>
+  <segment bytes="793034" number="5">snM6FnHmLKlj3@1470863940.40929LWz2Y7VWsmag9z8NCN</segment>
+  <segment bytes="792961" number="6">KP46eKCZVYZi@1470863940.40933CsHBqiBjqegQU</segment>
+  <segment bytes="793112" number="7">cvU76kfyokbshY6@1470863940.40938IjzFxsWnfKSG</segment>
+  <segment bytes="792839" number="8">Svmpmo4L80T@1470863940.40942tFVqJaKT3FeBUMKX6Oj</segment>
+  <segment bytes="792903" number="9">FIlhYjnloxMy0rnqjW@1470863940.40946EQYDf5RuP4etw4</segment>
+  <segment bytes="792983" number="10">aBsZS44ZDsl@1470863940.40950SsFVTugaQaoMJwJ</segment>
+  <segment bytes="793329" number="11">amp5k90W9RBRUk4mdyl@1470863940.40954H6bu4n376mtMMy</segment>
+  <segment bytes="793080" number="12">mxiNyT899A7YYHg@1470863940.40959Ezooa2GvBwe6</segment>
+  <segment bytes="793158" number="13">YSr2695JC8f6GGMs@1470863940.40963MGfbZhtkFKQ</segment>
+  <segment bytes="793156" number="14">Vx3q9aLx3m@1470863940.40967TiqHlAeixJGcQhwn</segment>
+  <segment bytes="793289" number="15">NOcfwuENB3@1470863940.40971QbM8G1QcTs1EuE</segment>
+  <segment bytes="792837" number="16">w6xan2POkWLN2VHS@1470863940.409754ycdE72V0s0</segment>
+  <segment bytes="793209" number="17">BXOmgJlRxkgZk1KI@1470863940.40979nL9woJaVa3lCvs6dt</segment>
+  <segment bytes="793027" number="18">qwzs6j652CkgvwRMXfR@1470863940.40984nfcPDpbq1XovJ</segment>
+  <segment bytes="792839" number="19">UIAaFpfJWVQ1uPAhm5TG@1470863940.40988T0ne1407ayRT5YmOpT0k</segment>
+  <segment bytes="421474" number="20">9mNZcf10jhElZPF@1470863940.40993yApmii0mAee5HqfBsoP</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863944" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.11&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792727" number="1">EIGeXqAFC9kD1@1470863940.40214eyGfYYjhvlRDakk1TP</segment>
+  <segment bytes="792880" number="2">xeIdZcTvLv8p@1470863940.40219mQyDZQXX1k3fi6EUBe</segment>
+  <segment bytes="792504" number="3">oSfBxCvql2adcBDhMM@1470863940.40223uLf8WoeVyawGda</segment>
+  <segment bytes="792498" number="4">d99niYL4aExldEd7e8@1470863940.40228Fz7zMLZlD1VKli</segment>
+  <segment bytes="792557" number="5">9gwZZvy15cYzsbW@1470863940.40232Za0gWPpCyHTFiTfxJlht</segment>
+  <segment bytes="792546" number="6">j7uFZDC8UUWjmF@1470863940.40237E988DKKN7KEPH</segment>
+  <segment bytes="792695" number="7">OZ1RnSIAPApYl3du@1470863940.40241U2vOEJRsV97ReJ</segment>
+  <segment bytes="792757" number="8">FxNzjIE4UmgrowHAg@1470863940.40245CUy9WPCRi4L</segment>
+  <segment bytes="792777" number="9">lMhxB2ziyKDr7KRn0n@1470863940.40249BOMzoCxjskGcE5B</segment>
+  <segment bytes="792583" number="10">GvwyBO5MyGNsI54gm@1470863940.40254nt0DOMdP7ora</segment>
+  <segment bytes="792606" number="11">6fchh4fn8ao7V@1470863940.40258zUnxkDCAk49dciFO</segment>
+  <segment bytes="792447" number="12">BtVWrX3LlGX@1470863940.40262J5IeZLQlTAyub3m</segment>
+  <segment bytes="792512" number="13">XjTraWLo11T3Xep@1470863940.40267BZDEEPajN6426C00kUK9</segment>
+  <segment bytes="792611" number="14">Flv4XpjiQbALQLeDBGjN@1470863940.402718eW4lNOEkN6ev</segment>
+  <segment bytes="792422" number="15">UIh7IZHWjYTI5V5@1470863940.40276YiBoagMXDA3GpaklZ</segment>
+  <segment bytes="792954" number="16">2Abr2LNGUvpmhGUG@1470863940.40280viDMbJx83W1ekIj</segment>
+  <segment bytes="792891" number="17">2DxpkZB9FiuZa6Jl3X@1470863940.402857n26bpiGXX83UJEyQX</segment>
+  <segment bytes="792386" number="18">rnmFODFEC4@1470863940.40289axt32rYKoS</segment>
+  <segment bytes="792578" number="19">uoB0Srvs6FQXt6L6S@1470863940.40294Iu6JDBiLZyn</segment>
+  <segment bytes="421302" number="20">WOHgcisIoSuGJmfu2ZtZ@1470863940.40298HlEUDLowWTB26</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863949" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.12&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792305" number="1">2M8VheVQkK@1470863940.41451bNIsMhMU4DUi9pdmQZF8</segment>
+  <segment bytes="792714" number="2">ZnZAxU9mKoAW1wY@1470863940.41455NaBtw3IpULPv</segment>
+  <segment bytes="792449" number="3">sC37xuvO9mivF@1470863940.41464u4Lu0tei46RA</segment>
+  <segment bytes="792538" number="4">bxGxuE1IxRa@1470863940.41468cSDqeYrRv6U7hJOuth</segment>
+  <segment bytes="792523" number="5">kfvImvxbRcbloNsItyBY@1470863940.41473jZDLo5GLgwItXVV</segment>
+  <segment bytes="792497" number="6">5sP5n8odJcMTWhAlKHa2@1470863940.41477MkWsqxfMWqoV3sHkaFo</segment>
+  <segment bytes="792442" number="7">JXN30JGZ1aWPwkNuQhI@1470863940.414828MWZhCpItJoMm</segment>
+  <segment bytes="792631" number="8">eG3c8fRBMgbm@1470863940.41486fOqKJeAnvWylIx</segment>
+  <segment bytes="792491" number="9">5tt3mbsxzjvCsl3nFkjK@1470863940.41491FnbQDXvn46Q</segment>
+  <segment bytes="792504" number="10">1y3AYggsN9Y@1470863940.41495yZKZMIs1if9wEbaLR9</segment>
+  <segment bytes="792638" number="11">tsc5t3NQ0u@1470863940.41500Wn0vJokDDgR</segment>
+  <segment bytes="792547" number="12">jCOCT9xssqQkRCm@1470863940.41504aPVfHmATNMzC</segment>
+  <segment bytes="792590" number="13">9otbnW8Jmncbj@1470863940.415085xCxQ6VI4Qilhhc8pGe</segment>
+  <segment bytes="792641" number="14">SAVdWxYkEl2qFduT@1470863940.41513UxhmJZc1QQjeEqH</segment>
+  <segment bytes="792675" number="15">QcyvJyqCnK0dhI8MZ@1470863940.41517M42pC2778CS1tVteh</segment>
+  <segment bytes="792704" number="16">KqkyHd8rqh4RLxNJwiFT@1470863940.41522QpbQqBASUo</segment>
+  <segment bytes="792584" number="17">RSanb3XHynQzzIyZRi@1470863940.41526kUpdeoruYK5W</segment>
+  <segment bytes="792516" number="18">sWluCrOLYrhEvwDALtyD@1470863940.41531BTlRajTyheWhPWpGx</segment>
+  <segment bytes="792707" number="19">P8mYKti4sJZ@1470863940.41535E9DmiEBRvPvO6py</segment>
+  <segment bytes="421335" number="20">dRvCjWUIKW4i284RLJP2@1470863940.41540wpEmX6RNYhr4Fq</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863941" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.13&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792509" number="1">gUExoFAb0akRnO6s@1470863940.393569yuGv5oKgMcI</segment>
+  <segment bytes="792739" number="2">WisBTJ5xdBLhX@1470863940.39361eByrKVKINs</segment>
+  <segment bytes="792435" number="3">NFUSbfIAbaaOJ3qMCg4@1470863940.393660fMeGJT1qVBryj8</segment>
+  <segment bytes="792791" number="4">MEYft2KrTlhMTWIZ@1470863940.39370a9LWQlZAWOPATEQ</segment>
+  <segment bytes="792705" number="5">oG9erVPZgmwaUpT1jn@1470863940.39375x2849iBJScur</segment>
+  <segment bytes="792601" number="6">rDdB4yNeT9p@1470863940.393797Il3rYohAV</segment>
+  <segment bytes="792639" number="7">8dcJ8Xsohj@1470863940.39383rz3eCZY5tO10yU</segment>
+  <segment bytes="792630" number="8">5dUIqRieLAGn13@1470863940.39387QrtfX1pXSXo8ZDsG</segment>
+  <segment bytes="792808" number="9">5RZmnuiBPKW2@1470863940.39391uBSCF6i4Yw7GkjWf6</segment>
+  <segment bytes="792526" number="10">Do5zgQNl1bGfe@1470863940.39396NFxjyuDLHC0maOy4SG</segment>
+  <segment bytes="792492" number="11">l35iv0uWfMtXcH@1470863940.39400hvDvUCCJYNbx</segment>
+  <segment bytes="792613" number="12">Cn3nbAFe7Ak4ikZ@1470863940.3940432zmckZhdm</segment>
+  <segment bytes="792598" number="13">TcVlSGfWQgtm7Ps@1470863940.39408hgOTNLHvVUq089qzorBI</segment>
+  <segment bytes="792792" number="14">kNqvQeYVXku6YL@1470863940.394138bqfMj5uvlNTigVTz6Z</segment>
+  <segment bytes="792683" number="15">QAGEnyimJrP6DU1c@1470863940.39418JiQ1QhcOcoYj0r4mtz0</segment>
+  <segment bytes="792781" number="16">3j0DdGSJSbG5Sjw@1470863940.39422JEAkqiFLfDdGxJwr1jz</segment>
+  <segment bytes="792603" number="17">YsUd0ZYxT3pjrt@1470863940.39428LrPWHh4CGilKKJ9</segment>
+  <segment bytes="792689" number="18">4zvaU2dGI5NNqA2DJCw6@1470863940.39433F9SiyqrCt1bvDqc</segment>
+  <segment bytes="792774" number="19">LWRs4ngt5h5@1470863940.39438LcwcMXk9zcg</segment>
+  <segment bytes="421291" number="20">2NjOszQ05CoBT3@1470863940.39442xbBNRJjpBRm</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863956" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.14&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792548" number="1">eV1A2N8pAL63l@1470863940.43338By8ZwkDvpFlw0</segment>
+  <segment bytes="792721" number="2">ixWv6BapmAD@1470863940.43342bIhPZaUJfaI26RDahYy3</segment>
+  <segment bytes="792697" number="3">wlHUpXZGDrBl@1470863940.43346l1kYcogqCtZSYL7Ebn</segment>
+  <segment bytes="792583" number="4">ZOkfKlRrQFnGlYvpI82@1470863940.43351TFloUw5yFBR</segment>
+  <segment bytes="792818" number="5">PNii0F2ljyUEKGoR@1470863940.43355wnT8WQF36rA3a</segment>
+  <segment bytes="792968" number="6">lDmDj7lLp0rK06kV@1470863940.43359M0r6JhMDO6Pu7miwZ</segment>
+  <segment bytes="792857" number="7">TUkYjmlyMYN7RD8VtP@1470863940.43364YWPXmp1YmrkztSxVQV</segment>
+  <segment bytes="792748" number="8">R0mR5FLEWsP1u@1470863940.43368fwLWaeJ0EPR</segment>
+  <segment bytes="792689" number="9">gSjfPWBHSAAANHutC4WG@1470863940.43372kyYM7UAkQaD</segment>
+  <segment bytes="792689" number="10">OOg41nmpinuw5@1470863940.433769skne5WjqU</segment>
+  <segment bytes="792798" number="11">elwH0000DZjeeu@1470863940.43380ol9nq7yY7roX</segment>
+  <segment bytes="792480" number="12">jmkPf0VX5FsHf@1470863940.43384pYyX02F1J1dgkdgxHemj</segment>
+  <segment bytes="792687" number="13">LYpr7mLgEM9@1470863940.433880Cg9aJyiQT</segment>
+  <segment bytes="792742" number="14">l6oRFrolXaQFoD8lz@1470863940.43392HC5vceJCxvPvR</segment>
+  <segment bytes="792711" number="15">u7LCD3fkbXR8Eh9@1470863940.433962TFaVy97hH6WRNE77F4U</segment>
+  <segment bytes="792654" number="16">p0bM7CmjtqK7eg3H@1470863940.43401L1hGS2CxE1</segment>
+  <segment bytes="792858" number="17">cJbVEX6ZIOpoo4lOh@1470863940.43405pRI7MSYCl5HVe5tzcmDv</segment>
+  <segment bytes="792498" number="18">dwQGGAblPwBDZ@1470863940.434093VD1cRPcMBRvLPw</segment>
+  <segment bytes="792574" number="19">lRihPk14eY@1470863940.43413mwirtMM5XCl0LM</segment>
+  <segment bytes="421390" number="20">s3FMa0I8KG8yb@1470863940.43417XdqZLH6NI9AcElBZ</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863951" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.15&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792730" number="1">3ovw7sOGOen3W65@1470863940.422152gLTiiv4mXic3</segment>
+  <segment bytes="792721" number="2">yhjKGk3FilQ@1470863940.42220Lmg6WwlEhc</segment>
+  <segment bytes="792605" number="3">gZ86fN8rkv1sUJDHVlAv@1470863940.42225ZVZQgOGcDjpSWJzG</segment>
+  <segment bytes="792580" number="4">SSOf2TN9u3@1470863940.422291jIvEk40FUNH3</segment>
+  <segment bytes="792530" number="5">tIsPOhQ5EVYoNz7@1470863940.42234i1vsBCu12zEb25m6WnG</segment>
+  <segment bytes="792715" number="6">aSzisYXBBjF7wKedmh@1470863940.42238jNhvLw9MpGZo</segment>
+  <segment bytes="792508" number="7">QoS11nnvpPiVrS6AoY9@1470863940.42243IUK1Hs88CLd</segment>
+  <segment bytes="792762" number="8">4gXWrt1OJfN7@1470863940.42247fUQ5aKqYp2oS1</segment>
+  <segment bytes="792691" number="9">SkIuLnZCDlmSKP@1470863940.42251wmq6MDVQJ7tNpk</segment>
+  <segment bytes="792674" number="10">UWDL3aCmNsGDD@1470863940.42256cKXGk4syCeTbwhOe</segment>
+  <segment bytes="792540" number="11">wK13BQ0eA4Hod6GrcJJZ@1470863940.42260QNmBTduN38PsGFGb</segment>
+  <segment bytes="792731" number="12">IZJnNK6dhD1D219@1470863940.42265cbpad6li6F8f3ke0w6H9</segment>
+  <segment bytes="792615" number="13">5S6wjkGqhDeYqc1nsf71@1470863940.42270DJvvEXfvhetsNzfG</segment>
+  <segment bytes="792827" number="14">1GYmXakikUj35edw9t3@1470863940.422755J28lHzGByB1Au</segment>
+  <segment bytes="792619" number="15">ULrl7373MbqT9zupTy@1470863940.422790TZ7CIhdN2</segment>
+  <segment bytes="792763" number="16">sRmPvX23K87pB@1470863940.42283oFqwitTe6wpZcOsvlUku</segment>
+  <segment bytes="792836" number="17">bJdigja5aAKamg@1470863940.42288YrxuvGmEA8ie</segment>
+  <segment bytes="792651" number="18">hk9vjMrAjMjOK7BG@1470863940.422933hJYtm66aWJZx48cl</segment>
+  <segment bytes="792663" number="19">oeKQ9I2mU0xzhGIvB@1470863940.42298ffy9MjA61qS</segment>
+  <segment bytes="421321" number="20">CKAiQwHpHoDIz@1470863940.42302ES7aSPfAhh6AnCz</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863957" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.16&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="793045" number="1">rhwF1UP4R1IZKNsll@1470863940.43693yuULEvoYXYgSXAmmgOJB</segment>
+  <segment bytes="793151" number="2">Xg0VE8w7C3JS94ytJGA@1470863940.43698djj8V2i7qfPL0gu1LzXL</segment>
+  <segment bytes="793261" number="3">Tb427I6lv1HEyR@1470863940.43702nLi1AoNhZiyYO1ugvn</segment>
+  <segment bytes="792801" number="4">n61R5woSgxV0wBYT7@1470863940.43707NdjSzMhPZDJ2VRM</segment>
+  <segment bytes="793036" number="5">gym1BKx550bEicvUs7H@1470863940.43712qDiJhJKUXW</segment>
+  <segment bytes="793052" number="6">plMr04GaoEw9@1470863940.43716DVftCOWUmLcWHoj8g</segment>
+  <segment bytes="793174" number="7">itQnkEHSfLpaA@1470863940.43720h6lW2cgYL8gmdOi</segment>
+  <segment bytes="793030" number="8">Ix3YuBBHqz592kv@1470863940.43724SzoMoxa0Ue8CqktIOHj5</segment>
+  <segment bytes="793050" number="9">By9ZVBquEGtDC68E6@1470863940.43729CLuuwsUfnJiK</segment>
+  <segment bytes="792908" number="10">mIUL37IpxzSFF3lvjZ@1470863940.43736KmMJSYc7Zkou</segment>
+  <segment bytes="792746" number="11">vkft3j9ANLoHYzDdZvV@1470863940.43741nQNWtf9AvSD0tX</segment>
+  <segment bytes="793041" number="12">cVgahKOBV29@1470863940.43745glfmlY2yhYWcwJn6wTbZ</segment>
+  <segment bytes="792946" number="13">mRmNg8gwO6ElefZR6@1470863940.43750xlfAp3FWddIA6Lw</segment>
+  <segment bytes="792824" number="14">GKbcYV6s30g2kzcUyiIB@1470863940.43754FdU1m0P7eX</segment>
+  <segment bytes="793137" number="15">Pd9xfEWVeHYK@1470863940.43758hPpqVs8ERNnUE6</segment>
+  <segment bytes="793074" number="16">1bKAD8fTIC3V97Z@1470863940.43767yKrhvTaQsxoOGQ652ht</segment>
+  <segment bytes="793284" number="17">nVK9yELZvXOkJdTRUkr2@1470863940.43772L3H5tEAHI3fipdHwx</segment>
+  <segment bytes="793146" number="18">1G7pSK8WBizmJeZaiy@1470863940.43777QIHoC5NeB1y0r</segment>
+  <segment bytes="792918" number="19">w32r6XKoLX@1470863940.43781aokldaJZDe4zfNG67aB</segment>
+  <segment bytes="421413" number="20">kiYaLs6D8cKuJSRZ@1470863940.43786AfA1K8QkfKso</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863955" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.17&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="793204" number="1">eAqmWShEBv@1470863940.43059SgFstHV2dUV7AZcJQuQ</segment>
+  <segment bytes="792774" number="2">zUY8iEaEUc7@1470863940.43064XZRwzQ4k66phb8gX1Te</segment>
+  <segment bytes="792797" number="3">4pmjkVS9KjDHVNCnVn@1470863940.43069OAWwobd1p8wF</segment>
+  <segment bytes="792809" number="4">F588Ow6Tz6kSj1n@1470863940.4307367yRT05xCemwA</segment>
+  <segment bytes="792686" number="5">9ojhPBauOVEJpn@1470863940.43077E4zfCbEPEKdO</segment>
+  <segment bytes="792928" number="6">bvlv7TEQxRpbJIhgF9n@1470863940.43081tq6wPPqwzGsdil</segment>
+  <segment bytes="792780" number="7">FOsugFDqKnSVebGl8@1470863940.43085eU2Yq7dIfg0s</segment>
+  <segment bytes="793249" number="8">5EdZ7e06Jdpzo3@1470863940.43090r8DNGk72ZrKTyuTgI</segment>
+  <segment bytes="792952" number="9">TL5YNHqu7UY@1470863940.43095B4b77Q8HjJx17w9jF5</segment>
+  <segment bytes="792757" number="10">ta1VThfF4512q9Y@1470863940.43099ZS7UBvL2aLEIoBnpy</segment>
+  <segment bytes="792679" number="11">n9Cm2lBvPE@1470863940.43104ChSHvnrLWl</segment>
+  <segment bytes="796234" number="12">8Go0JL6pEKl8@1470863940.43108toeV0eAnglF5X</segment>
+  <segment bytes="792824" number="13">JkzIG8Am9VB2ejfMN@1470863940.431122iQBELJOPFJkUWNOdYk</segment>
+  <segment bytes="792614" number="14">8LchyfmQWZRiAr@1470863940.43117Gy9Sc7hWSUGNaYdT</segment>
+  <segment bytes="792754" number="15">6ib1gXBWyYIboa@1470863940.431216OvxOKCuGfz9t</segment>
+  <segment bytes="793189" number="16">IEMQUasGRFdkitVBOH29@1470863940.431268BdETNM4Vzo7l7</segment>
+  <segment bytes="793194" number="17">PXGuZE9m0Pq@1470863940.43134EYPsjbti4WT98</segment>
+  <segment bytes="793268" number="18">vPMgUJBXdqViRAM9bm@1470863940.43139gvedNq7uLtQMy0OL</segment>
+  <segment bytes="793088" number="19">RCblnQOWvB@1470863940.43144MFLG3nW7whoFf9aYjG</segment>
+  <segment bytes="421337" number="20">TtVLxmHC1Eix@1470863940.43150dVqzqlWJAK</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863946" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.18&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792977" number="1">ZaLpbQoAKovlz6czlh@1470863940.40733Q2cSwDZ9cq0Ram9t</segment>
+  <segment bytes="793100" number="2">iwjGhJ8MQ2213vN7lo6@1470863940.407371DEgP1UkStK2ARkmz2</segment>
+  <segment bytes="793235" number="3">R0P3GiDvBstqpiLn@1470863940.40742nzo9OJynd5hJRQd9A</segment>
+  <segment bytes="793148" number="4">mq2UMuW4vIU@1470863940.40745PAQPqEhcoQVzNN</segment>
+  <segment bytes="793234" number="5">CVotZVCSdPX33djCN0jV@1470863940.40750RI3ID7yjRpPZf</segment>
+  <segment bytes="793186" number="6">EZKafljyjy9P@1470863940.407542MJEmnEIqyoMPG</segment>
+  <segment bytes="793034" number="7">rNvZZlaMCKC@1470863940.4075826Sn8kRpnmJo</segment>
+  <segment bytes="793153" number="8">9cLlsVvcOHeZnw@1470863940.407620ek7WCGzvfp1zlxABGKb</segment>
+  <segment bytes="792950" number="9">XEwY7HSJzKtBFd@1470863940.40767CKVX75Klnj3Hg8Sy</segment>
+  <segment bytes="792997" number="10">x5Jn9HFdAeS3U1pg6@1470863940.40771UaLkNuzHh3trCe</segment>
+  <segment bytes="792936" number="11">OOlEfd5PmZbwpAi74k@1470863940.40775HmWwqIW6akN3X1gGfai</segment>
+  <segment bytes="793395" number="12">dX2g0Fa9ZaZX@1470863940.40779Kqf5crWKbHTlb</segment>
+  <segment bytes="792870" number="13">39GtPhn1Swtu9N5MF5m@1470863940.407849RViyZ083MYmEk8km</segment>
+  <segment bytes="793030" number="14">rDVRqqyD2RSyRwH@1470863940.40788Qw6l34sxEox7sjO8R</segment>
+  <segment bytes="792598" number="15">e8kcvO6bNYC3JM1c@1470863940.40792uMaDjnofUG6YAiW9NtS</segment>
+  <segment bytes="792997" number="16">csqzM7KV4F@1470863940.40797wHK7WTHFMm1MWUYE</segment>
+  <segment bytes="792836" number="17">Qd7j4yOMWFQfziR@1470863940.40801QUKpVmBE6G6</segment>
+  <segment bytes="793087" number="18">nMRl2ixhEn@1470863940.40805AAGTRhzzZU</segment>
+  <segment bytes="792823" number="19">0pEFDIDWVhnc7FQjetYv@1470863940.40809YYZtq8dekd</segment>
+  <segment bytes="421519" number="20">OeV2UZ3A90Arz4HKmE@1470863940.40813rcnyS4exFB8Ws</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863955" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.19&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792385" number="1">P5AWvlvvCEv6O7i3@1470863940.432478NL9Q0H1PUSwMr</segment>
+  <segment bytes="792534" number="2">7Mvvrgz9POznkflD27@1470863940.43251R0zCVmkKwy336S</segment>
+  <segment bytes="792673" number="3">XOkbDrDnkD4oAT5Hft@1470863940.43256f2LNoES23rsijeOsfzJg</segment>
+  <segment bytes="792597" number="4">19YvewUNePYr@1470863940.43260ThfA49t33dkGXe9iO7h</segment>
+  <segment bytes="792655" number="5">h4gCtfB4Hb@1470863940.43264rgXgwP8BfTb</segment>
+  <segment bytes="792519" number="6">PYncyLhaZjnNPsKB0g@1470863940.43269bUqkAPdG2Bha</segment>
+  <segment bytes="792898" number="7">XRpyS4CddEtPrA6@1470863940.43273847HmSzrJvU7rjlvv4W</segment>
+  <segment bytes="792318" number="8">7GayaPoEtIEz@1470863940.43277HtKQJ6D0YTUaCIT0bQ</segment>
+  <segment bytes="792442" number="9">2hG261vGoOX6an@1470863940.43282owZ9KUpubQfVd7VO4</segment>
+  <segment bytes="792593" number="10">Mlttvy1kXZT@1470863940.43286DvGE3knekGMJ</segment>
+  <segment bytes="792469" number="11">NMVXbpAJ3MAkDVo@1470863940.43290ZXNJzVkvYQhImURVW5</segment>
+  <segment bytes="792781" number="12">3Uom4wxLdNBvy@1470863940.43295ARgcWXtNnl1OHzi</segment>
+  <segment bytes="792538" number="13">wFyv28Gf3fa@1470863940.43299AgJM85eguYlHn</segment>
+  <segment bytes="792641" number="14">q5ugGaOiMBMp5dutw@1470863940.43303ZHCaHkxCW1Jngl</segment>
+  <segment bytes="792929" number="15">gq1M5osJ5BdusqE9@1470863940.43308M8GK0NyWlVMU</segment>
+  <segment bytes="792465" number="16">UkuJFNSFdhnWRjoHFR@1470863940.43313UStaOVKYaeOMkRiJQsg</segment>
+  <segment bytes="792428" number="17">pSlgXWFShvagt@1470863940.43318ZSyQ0X9eyf</segment>
+  <segment bytes="792494" number="18">MK3PGNHTF6NkIdAdqz@1470863940.43322XOBQaKWlBa56</segment>
+  <segment bytes="792638" number="19">GlLBomDGFVH@1470863940.43326K4FJKgcdQaf7QDdrUVa</segment>
+  <segment bytes="421256" number="20">uHpGorgmqg1AzXd2ib@1470863940.43331rDXAWYUh0i2zvLB6qbI</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863946" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.20&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792675" number="1">4bYasBx5FJ2@1470863940.408197XH00GyCR7Y3b8Pmtn</segment>
+  <segment bytes="792518" number="2">bmCHk68KC4Ip@1470863940.408295nRvEshdVSzU</segment>
+  <segment bytes="792581" number="3">AI0Bxsas022k3VDtCMu@1470863940.40833fcwGew7hjUR1MO</segment>
+  <segment bytes="792427" number="4">7nrKCdM2dTXyvkqZU@1470863940.40838356JyW1GKEWw4vw0</segment>
+  <segment bytes="792646" number="5">PHXC0pueZW0mhT@1470863940.40843FttjBK0Z3ogzTkpP7UXW</segment>
+  <segment bytes="792888" number="6">AtKhCFBGKSw9qv@1470863940.40847JuuynyydmQs7tgK7M2V</segment>
+  <segment bytes="792707" number="7">ixrcMBg6b2qsHnsv7Lvs@1470863940.40852loAFS7SBE6r9dnUnK</segment>
+  <segment bytes="792682" number="8">EAQRmPRFiPFSJFMt@1470863940.40856QXZzbTFihDL</segment>
+  <segment bytes="792403" number="9">ZJInr9uWL0@1470863940.408602sUPsYam0jAH</segment>
+  <segment bytes="792558" number="10">pqLHquzIILET3Sk2E@1470863940.40864GxCvi3yNu3Y6YKNuY</segment>
+  <segment bytes="792493" number="11">6v83oskV647xZIecUzcn@1470863940.40869J8lij0Ui12OQ</segment>
+  <segment bytes="792830" number="12">lCh7XKcaByXHOJ@1470863940.40873AQkfhgqZmrhBOxDex</segment>
+  <segment bytes="792532" number="13">MDlT0PS26tMqu83ndwhG@1470863940.408776TXfwaGUopgwYe</segment>
+  <segment bytes="792579" number="14">3gZKRvIlfCvJ6@1470863940.40881s1wyUUImsj</segment>
+  <segment bytes="792636" number="15">AHRRxgVWxWzdfAxH8bCf@1470863940.40885mpqM7uvoVP4Hz</segment>
+  <segment bytes="792824" number="16">5b5negyIpqsYVJHsbn@1470863940.40890s46VTTMcPK</segment>
+  <segment bytes="792732" number="17">FuEQZQxisyrICIzZldMB@1470863940.40894LCjzGO00H9RIAt4Ngr</segment>
+  <segment bytes="792736" number="18">k15G5WmqF6@1470863940.4089814qaJWYQUtGN</segment>
+  <segment bytes="792576" number="19">QrChfRBDD8@1470863940.409023Ltpgw038DNTdA</segment>
+  <segment bytes="421093" number="20">ilWSkCOp8YcOt@1470863940.40907IkOFT1ZWJbq5py</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863948" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.21&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792725" number="1">gFRiN4BR8MziJh7@1470863940.41362jBMT0RyIlWBfT6oIb</segment>
+  <segment bytes="792692" number="2">ILT6oVOnReWgLs@1470863940.41367Fsg7Z3DNShWX</segment>
+  <segment bytes="792577" number="3">kZNRfVdNPK@1470863940.41371Mtqs5umbIUa6</segment>
+  <segment bytes="792874" number="4">4vnGZboCvAoQ@1470863940.41374JjvtWKf7coIaW</segment>
+  <segment bytes="792849" number="5">gWPBWkPunslP1utzYd@1470863940.41379YT2jytEHmEDjIPdZ</segment>
+  <segment bytes="792676" number="6">QCngybCpgH@1470863940.41383rAZV9Jv9jY33UbrAl</segment>
+  <segment bytes="792692" number="7">ssH3r3yMMXaVZn@1470863940.4138780Q8scvWhBF4aKNa</segment>
+  <segment bytes="792808" number="8">aePsrOAzvYw2IKV@1470863940.41392g3J6TdueKPkJXdZGEmMt</segment>
+  <segment bytes="792575" number="9">R371e60N4mFCe5@1470863940.41396G0mt6JcaSEcXBBB35</segment>
+  <segment bytes="792941" number="10">vBhkqIATwg4dvB@1470863940.41401r36vddaBCubS95D5r5je</segment>
+  <segment bytes="792515" number="11">3QroN256CstjGy@1470863940.41405YYc8NiaRRZqB</segment>
+  <segment bytes="792594" number="12">hYCCsEhi1rl@1470863940.41409Ph1z3FVt07oA4Zy3j42u</segment>
+  <segment bytes="792675" number="13">TvpQN4hV8I0tLaM7Btm@1470863940.41414eeCdVRrmIs3</segment>
+  <segment bytes="792486" number="14">laSxObyFjcy@1470863940.414181auIfYR4NZG91hpC</segment>
+  <segment bytes="792790" number="15">wxoW4m81NOUQN@1470863940.41423LNXmVZ4bpY6ulp</segment>
+  <segment bytes="792807" number="16">bJqLwslShaZh7@1470863940.41427bXuBg2W8YxT</segment>
+  <segment bytes="792771" number="17">WiYLA2cOnlKqIF5QB@1470863940.41432bQOIaRqC4b7v8PXtTGa</segment>
+  <segment bytes="792800" number="18">dC8KZmSY7lpTjB@1470863940.41436tyWu8zJMEwnJqPC</segment>
+  <segment bytes="792667" number="19">pzxmoj23FZBwDjMXu@1470863940.41441M5P2s4QkmPZuT</segment>
+  <segment bytes="421465" number="20">UwGQSHYxG2pf6ZX@1470863940.41445v5G4FP4T2n1mbbOqX</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863950" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.22&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="787460" number="1">XMhro2FI3sVNIrl@1470863940.418918Q9YptD0GhqsidA5vqH</segment>
+  <segment bytes="786667" number="2">8NgbaCdOGLzQrQItWb@1470863940.41897A3XlnTqk35hPFOVHiBB</segment>
+  <segment bytes="787411" number="3">HzAmZeC3AqrXc83mLF0Q@1470863940.41902MGeY7uEPbN131</segment>
+  <segment bytes="786528" number="4">cEXdUMYPFqz@1470863940.41907lHvfpU0nKV6TD2wdL</segment>
+  <segment bytes="786834" number="5">WykNmWdozul@1470863940.41911SdRl1ZPcV6HX</segment>
+  <segment bytes="783297" number="6">6XvK8BnUSV@1470863940.419161PCjPCkoujG</segment>
+  <segment bytes="782252" number="7">SfecRv2VKt6w94xR0@1470863940.41920mIBjDjm4Fg</segment>
+  <segment bytes="782447" number="8">rBMxiHMPXyXfBLh@1470863940.41924HyG3UTQZG089rG5uM</segment>
+  <segment bytes="782178" number="9">BkgNsNZ9psjXRn@1470863940.41930KTK6hTkM3impYZ</segment>
+  <segment bytes="782313" number="10">bnYnshTgUNYdEp@1470863940.41935doXuM9ot0Cv73tpzgu</segment>
+  <segment bytes="791561" number="11">s2otE7c8gRy@1470863940.419401kQsII27JxCwK4CTKx</segment>
+  <segment bytes="793299" number="12">MsTwQuH9ZBnIdUwCOF@1470863940.41945wPT6owtKznHdvpw04RL</segment>
+  <segment bytes="793094" number="13">k8BwpuFVyxEqOpbR1z@1470863940.419505pVhbRdz5kHcrwaC</segment>
+  <segment bytes="793042" number="14">1r6Qh5c8tqbI6VLH@1470863940.41955ROPV919ty6B2</segment>
+  <segment bytes="793094" number="15">bjnvanNtOKqAH5H7KQ9@1470863940.41960pipWiwIXu8UvAww73</segment>
+  <segment bytes="793102" number="16">5gBO4ipVYdncmR@1470863940.41964mrcTFaF612DxAUOA</segment>
+  <segment bytes="793195" number="17">s57mdMmdzUezJTCpz@1470863940.419694UTBm8pUwYILD8</segment>
+  <segment bytes="793154" number="18">MxRqoN6oSGJ7rHDMRZ3@1470863940.41973qRuDuZupeWcNZpbfQK</segment>
+  <segment bytes="792913" number="19">xx4MCeul4ouy4YL@1470863940.41978R3LhdO6P2uVSV</segment>
+  <segment bytes="421081" number="20">O39Aurt1J04Y6YV3qRSD@1470863940.41982bf2vFQ9dZGL1</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863950" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.23&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792843" number="1">HzMHdQ1OS1@1470863940.41722B6c3mAYJDiUDMK</segment>
+  <segment bytes="792632" number="2">IkOCUxWH8Wws5s@1470863940.41727VRd1KOgTgb</segment>
+  <segment bytes="792883" number="3">VEwCogwXNe5yNESbJuSp@1470863940.41731gOhc9NPLYWM</segment>
+  <segment bytes="792757" number="4">kJD0jF8OUHQp@1470863940.417353qo1LKLvTviBlvqr</segment>
+  <segment bytes="792666" number="5">gEJL69ORqp@1470863940.41739jpIfWv2qYtPlB</segment>
+  <segment bytes="792666" number="6">H9BJd6rjUr6jpH@1470863940.41744uJCjFn6at0KdpDiqkwX</segment>
+  <segment bytes="792629" number="7">OuFkuOs0IvCi@1470863940.41748LvMQxfZgrni37EPvKo0O</segment>
+  <segment bytes="792897" number="8">mfqXaVVJ7CJrjRLS@1470863940.417538Dx6IKpjhOwgtPSckjmO</segment>
+  <segment bytes="792668" number="9">jIY2sIjUQUHTTa@1470863940.41757UcrB3CZ7jhQNLAR6H</segment>
+  <segment bytes="792724" number="10">EFHGmBNsUca9Zjw@1470863940.41762MYQgO5YtdB0f</segment>
+  <segment bytes="792726" number="11">WaeV2Xgt8gm0jRxwCG@1470863940.41766SSU7GiCXHTd</segment>
+  <segment bytes="792454" number="12">nPlOHJMwFM@1470863940.41846jprJECgVNhyrYMlADYc</segment>
+  <segment bytes="792698" number="13">KwQXu2zCTnlpDTr@1470863940.41852bPE3IY1IW3snbEm7</segment>
+  <segment bytes="792783" number="14">XtgvsaraOD3@1470863940.41857dzlK3eDraUCzmty3nxwG</segment>
+  <segment bytes="792959" number="15">m7aMPj5FQ34mu3@1470863940.41862QzIcNoNVos7Sa77QP</segment>
+  <segment bytes="792798" number="16">qRWrIoKyJuFe3F@1470863940.41866O5avEA9BHJzZ2f59</segment>
+  <segment bytes="792744" number="17">UCJIANdskCeL1N@1470863940.418721lm5DMVsKKQw</segment>
+  <segment bytes="792660" number="18">69K7p4DL9tHqClUmJM@1470863940.41876pVRC9JUa6SFk5L</segment>
+  <segment bytes="792686" number="19">npUUXP3tV4zf@1470863940.41880nN3Bvo4MDYRBVF8</segment>
+  <segment bytes="421149" number="20">QhwDhGQNUoe@1470863940.41885h9AgKT8WybEewxGaJ</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863943" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.24&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792702" number="1">mDvs60SOhcZAPocRC@1470863940.40120j4kbzXLLxAs5nk</segment>
+  <segment bytes="792683" number="2">xuZwkC7HEE7@1470863940.401247PzHhPwDk2r1exX8</segment>
+  <segment bytes="792658" number="3">wOQbsyOg0jnex@1470863940.401288LK4wb7MYHrP5Rer2D</segment>
+  <segment bytes="792530" number="4">bgJlcLV9JTA@1470863940.401326nchRuG1bWUZUNQd</segment>
+  <segment bytes="792634" number="5">Vqqd53jbhIPnMJqB@1470863940.40137gL3FFvHDD1L</segment>
+  <segment bytes="792527" number="6">uEQhw5JNzev0M@1470863940.40141bx61ts21MxkZZg0Hvo</segment>
+  <segment bytes="792632" number="7">PAdzTVahRGs@1470863940.40145R95uq44y0R</segment>
+  <segment bytes="792709" number="8">jdixzoMd8dMuw@1470863940.40150EcxzUn4NWuQ9r</segment>
+  <segment bytes="792680" number="9">yYStKPlUb7qrt99IrD1V@1470863940.401547Z6Z0z4LZ9GfKnsjhO</segment>
+  <segment bytes="792679" number="10">Q7ANVGQIdLFjdp@1470863940.40158ICQFQG2zleyY</segment>
+  <segment bytes="792620" number="11">VYHWIEHoSwNrbY@1470863940.4016319MWaUS5wPdiLjMskp</segment>
+  <segment bytes="792501" number="12">WwzEZFWXPZpl4brw@1470863940.40167Auizr5f8kLN</segment>
+  <segment bytes="792494" number="13">EtGULXO4iOqnNW@1470863940.40171ILBZSnMlWg17qf</segment>
+  <segment bytes="792342" number="14">YVsqhT7r19VM@1470863940.40176dEpgqUVwFUv</segment>
+  <segment bytes="792404" number="15">fgVQCo0bG2@1470863940.40179lF0JOuPZryBfp</segment>
+  <segment bytes="792444" number="16">DI01Z8tlQOf6p@1470863940.401845PR76IRqIXc</segment>
+  <segment bytes="792659" number="17">Gafr2MalzMN9@1470863940.401882AoEU9h3kyt3</segment>
+  <segment bytes="792324" number="18">c7IpkkVtyg8xRwPs92h@1470863940.401926b2YG4QQVggEfh</segment>
+  <segment bytes="792583" number="19">pKaIDSje5IKMjc2sF@1470863940.40204aG3jomVQwAypG6NRtk</segment>
+  <segment bytes="421187" number="20">SE3hqEWVioQcp@1470863940.40208t6PO57caK1UpA</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863942" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.25&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792314" number="1">o8Fs8ncgbEfYxLD4c@1470863940.39648KLHqIqzbeSYqp</segment>
+  <segment bytes="792264" number="2">8ZvP9nB7Bus1cv@1470863940.39652DVjE9Ruv36jSKkZoPm</segment>
+  <segment bytes="792232" number="3">W3pLUXvkZNdzZcfSQX@1470863940.39657dLdajZBOvK6tX1P8v</segment>
+  <segment bytes="792016" number="4">JRooHVRtVnVxdog@1470863940.39662tCzNC2GMv3nDc</segment>
+  <segment bytes="792024" number="5">Trv0prxhlaLDVw6KWN@1470863940.39666a7dO32ySfLr</segment>
+  <segment bytes="792213" number="6">yEeuzSdWcfIStTv@1470863940.39670zui5j5UidFmyqbgE0BLz</segment>
+  <segment bytes="792520" number="7">bnWt7mRUhX@1470863940.39675lPRUHZcHKB1MgvwlQ</segment>
+  <segment bytes="792527" number="8">IO2VonwBSamB87@1470863940.39679vosCRPAlHZlDWgG</segment>
+  <segment bytes="792709" number="9">G1kadb5FGG@1470863940.39684yFrW48PWbUFW</segment>
+  <segment bytes="792713" number="10">0X8IMIcp821aePHR3@1470863940.39689J6XcAk4uGbmIwaDv</segment>
+  <segment bytes="792722" number="11">ZCDOk0gjCFaH2C@1470863940.39694LYSNSlXVMmILg</segment>
+  <segment bytes="792580" number="12">J1Z30C9NnZgaB3lZW7D@1470863940.39698jO00GDjSD19hxv1Wd</segment>
+  <segment bytes="792702" number="13">hU3URWShaLDLhww@1470863940.39703EFr7RsLGWuSquh</segment>
+  <segment bytes="792706" number="14">tAyxlEv3DcS7hMS@1470863940.39707uXX4bHXedOBiQ1s6UFTZ</segment>
+  <segment bytes="792590" number="15">h0MBPHBLgt5@1470863940.39712pYTeyL8ZuR3</segment>
+  <segment bytes="792726" number="16">BnvQbMOSjfAj6Og@1470863940.39716lHD9ypQNjlS1</segment>
+  <segment bytes="792894" number="17">AinSzrA8pOrdELgU@1470863940.39720yv9z1BEysgYprtc</segment>
+  <segment bytes="792642" number="18">r0xZE9Zurx@1470863940.39725VV5LRBF7F1c2A2W7HT</segment>
+  <segment bytes="792537" number="19">92veSc6HpbFTt@1470863940.39729z78lcfYgxnqWYOUCXVu</segment>
+  <segment bytes="421270" number="20">VXu5NOuTS5nm1IxfHZOK@1470863940.397345rzY9Nu5i9TTwmUa6y</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863952" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.26&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792668" number="1">OXD26nkBYqlzvq@1470863940.424115wmB46lY8K9IlSV74C3</segment>
+  <segment bytes="792973" number="2">GqH7SIvUy90G3HeKgH@1470863940.42416ozIpsoGjNsrpIjV</segment>
+  <segment bytes="792944" number="3">HqieKkvbW9P19CfZ6io2@1470863940.424213kvGAWveHVtjOWTwzLX</segment>
+  <segment bytes="792834" number="4">bzosTfx9IAljl6m@1470863940.424265e5xi9u6QpCCQSyeqz</segment>
+  <segment bytes="792786" number="5">mmZZbSemo2468@1470863940.42430DHmfpNODwu</segment>
+  <segment bytes="792959" number="6">Rf707xQ9zAwy0@1470863940.42434Huth4QSxqz4SCGb6</segment>
+  <segment bytes="792760" number="7">vylLlZO0ih@1470863940.42439ZgIoHbOl5hRePjTXRgm9</segment>
+  <segment bytes="792716" number="8">km3Q2v8DaT3@1470863940.42443RwDDf4OdUkY</segment>
+  <segment bytes="792739" number="9">Mim4BUCCpaE@1470863940.42447QiZktr8AnsR</segment>
+  <segment bytes="792947" number="10">kog4CUalawr3RzQpD@1470863940.424515iVVhtScuc</segment>
+  <segment bytes="792946" number="11">oSUMEb5X6cbU9r8Nq4L@1470863940.42456C214r4U5qDDdg2eeM</segment>
+  <segment bytes="788914" number="12">OWCSTYCMTqQufIXIJ@1470863940.42460pDlqQIgs5t26XUKdI</segment>
+  <segment bytes="790186" number="13">S72jXyoZ2tWZj5@1470863940.42465uNEjdUHaUk0J1huq1E</segment>
+  <segment bytes="800381" number="14">rCTkhA60kNflH@1470863940.42469aBx27fdMA1C</segment>
+  <segment bytes="792757" number="15">S2h4hmpe8r@1470863940.42473rKCFTd2fKWa8</segment>
+  <segment bytes="792967" number="16">RTeQZrSl9ZSiszV1@1470863940.42477KlfxN6WzGFaj1q</segment>
+  <segment bytes="792677" number="17">CRObv4MT7eOeJaUxXCKe@1470863940.42482e342k8tp2L5m</segment>
+  <segment bytes="792544" number="18">xd2IcObW685aD0mXIyh@1470863940.42487qjEme8g2rTICCw</segment>
+  <segment bytes="792586" number="19">eZ3PUeDW6Uez@1470863940.42491OB3vOxiRwt4UPkji2cse</segment>
+  <segment bytes="421270" number="20">LQV0kdZiXGHyYRy@1470863940.42500yNFCg8tXOE</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863943" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.27&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792641" number="1">f5Nq1j6gaPiBD@1470863940.39936LsapqBOh9tS</segment>
+  <segment bytes="792580" number="2">iyGjN3GTLOnl1E42j@1470863940.39940PX8gOLIsA6m5hWuHF</segment>
+  <segment bytes="792695" number="3">cCjz0yD3ubV2gr@1470863940.39944ygwx8piluGaWSW</segment>
+  <segment bytes="792525" number="4">EAihGSE6XoR@1470863940.399497YEzSOBVqbn</segment>
+  <segment bytes="792543" number="5">tgTqNqgRYyoHT@1470863940.39953eygavSSG4iaKR8wN</segment>
+  <segment bytes="792673" number="6">z5Cl4BaBaypxUX@1470863940.3995714eveCwIXe0</segment>
+  <segment bytes="793439" number="7">ExIOJlH2BrqKNucKlO@1470863940.399621aod80VugshUcfGXKldx</segment>
+  <segment bytes="793648" number="8">rlf0VSvMZ7Cx0Ycm2@1470863940.39967KRa6PetTNsf5sdSD81</segment>
+  <segment bytes="792445" number="9">XRz19jalk9SWg3@1470863940.39972BRfmQdHqRFZC1</segment>
+  <segment bytes="792693" number="10">qTAAiEU7XyLU1Gq@1470863940.39976cRzYwTuEOR</segment>
+  <segment bytes="792486" number="11">Z6xqzIwcRps@1470863940.39980puAUaKAcn4Gb</segment>
+  <segment bytes="792581" number="12">mC75RohqJ2@1470863940.39984gy71DAdG2Yw9N41u</segment>
+  <segment bytes="792836" number="13">qPEhD6fqRPdi6sePl@1470863940.399894MUZZz9uyBO</segment>
+  <segment bytes="792792" number="14">RT7yVwrIJzvqY@1470863940.39993h1VfQKO037X6nR0r</segment>
+  <segment bytes="792514" number="15">i7FFok8z07KeE7@1470863940.39998cBUMvyytHK2J7g</segment>
+  <segment bytes="792573" number="16">MqLgtwMvcZZ6@1470863940.40002NgHGqFDqbEEjkI</segment>
+  <segment bytes="792600" number="17">BG3otST8mx8nr@1470863940.40006tFu7snzmSnnshuA</segment>
+  <segment bytes="792660" number="18">537aOOoqM7hZYeNAq@1470863940.400115pDqRzDU3FBLQI</segment>
+  <segment bytes="792777" number="19">b6KtgjEPCdmJm7JK1XX@1470863940.40016sw3AFFRHmr</segment>
+  <segment bytes="421286" number="20">pNYNli4fTkajThFR4Q@1470863940.4002074WP2oKuwuqP0JsLz</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863952" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.28&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792874" number="1">XSYVptvpVFroZIuED@1470863940.4231818vfZ5JUXdb5evkLp</segment>
+  <segment bytes="792976" number="2">txSdrmzEUFGWqX6@1470863940.42323Ff2Q7gpfcHxaqIFU</segment>
+  <segment bytes="793250" number="3">QKmaPZOxDsXjzP@1470863940.42327pDqDecS6OT1BG</segment>
+  <segment bytes="793311" number="4">9t2ppnZzmUhv2Cu@1470863940.42331deitTIPn9d3o48L1Lk</segment>
+  <segment bytes="793261" number="5">dchzDJJX0grb@1470863940.42336N5vMHor9tyDsWn2DNo8n</segment>
+  <segment bytes="793061" number="6">WrhNAi5jpRH@1470863940.42341v6ehzGu22R7PAJSOG0IN</segment>
+  <segment bytes="792857" number="7">H32pCJsdk2iZG764lTPn@1470863940.42345TFLbtTS59tkexeH4AaT</segment>
+  <segment bytes="793201" number="8">H1RpzTiGlAXhc7V@1470863940.42350GSUYxNOhZzCHQBykcfz</segment>
+  <segment bytes="792984" number="9">SO1fVhKQXVW3VkEpM0GG@1470863940.42355MyIhsGN4BBsTdbKPqO</segment>
+  <segment bytes="792732" number="10">qlwyKOMDXZTquu@1470863940.42359ayT3OmlJhn6Vb2O</segment>
+  <segment bytes="792681" number="11">D8cv9H6zJWFGg34E3oRv@1470863940.42364u3S0M4FbKdGfRZqjv</segment>
+  <segment bytes="792961" number="12">Fuce7FvhiTPHVm@1470863940.42369Ax2LlALUW7mtZc4</segment>
+  <segment bytes="789518" number="13">nuAFq1ML5VM1zLRtV4a@1470863940.42373Kog1ZsObJyjs8BrTo6yJ</segment>
+  <segment bytes="808905" number="14">Q8eMsgZV4YFE1C0k@1470863940.42378PKOMrVadNNObUGtIY0g</segment>
+  <segment bytes="794985" number="15">x3ju6yqTtlwDXg4k8@1470863940.42383lwrj150jkj7hWr</segment>
+  <segment bytes="793362" number="16">SZgnH0zQcXCoCSsK4D6x@1470863940.42388Mhr1U8cXFv5upT</segment>
+  <segment bytes="792690" number="17">pQSNbnDtCzIDDtes@1470863940.42392vgQoUuVIP5QOYA</segment>
+  <segment bytes="793115" number="18">eZLWQelr5H2z41aMp@1470863940.423979DaJzg2sl0C</segment>
+  <segment bytes="793049" number="19">7LJCqWsGLM7ed@1470863940.42401Gg0FTQItEWjBGFtk3W</segment>
+  <segment bytes="421200" number="20">mwYtxy9n2HLLW2Es0JT@1470863940.42405vJAUpJoPbnzD1</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863949" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.29&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792628" number="1">Mfh94mIvgJSgBr@1470863940.41545kkQXqLEHxaRwqO5DJk</segment>
+  <segment bytes="792750" number="2">KViI8EkDJcRjAy0R3zLk@1470863940.41550ZDrGhqsTLLnA5</segment>
+  <segment bytes="792561" number="3">WW4k8FydWf4ZAQ@1470863940.41554yp5EoFK1r8FcSq</segment>
+  <segment bytes="792725" number="4">oDqhv4BwSbDBWVyP@1470863940.41559zyQF5dBleZ</segment>
+  <segment bytes="792811" number="5">rCWtGtR2b9YUVTbN0lIr@1470863940.41563x29yx0pviD</segment>
+  <segment bytes="792634" number="6">CLa1LA9IGN@1470863940.41566wPVSHyZGfw4Rza4NfMya</segment>
+  <segment bytes="792565" number="7">xwNEqg5uOqP1gyPh2si@1470863940.41571kP3vTWsu7DgxLageh</segment>
+  <segment bytes="792523" number="8">Uv0E0VqmPVFEf@1470863940.41576MMahEieJAx4c</segment>
+  <segment bytes="792554" number="9">av7dLKfDOwEhAMEFGeim@1470863940.415802ufBfbB5YdA2VjsMH</segment>
+  <segment bytes="792696" number="10">OVG2z0Wz4vG@1470863940.415846F3XcJuc5HM8vEHMu</segment>
+  <segment bytes="792501" number="11">qNrbQOvZQrxrum@1470863940.41589u0FVJiLxgTaN1</segment>
+  <segment bytes="792538" number="12">Tar4FAyfQu@1470863940.41593wGuD98cqFkST4uX1N</segment>
+  <segment bytes="792595" number="13">tSUVKYSwm5eEDtOc4@1470863940.41598CVDruQ1ag8ERDGH</segment>
+  <segment bytes="792729" number="14">xOo9T1El9LZ1DKOHPi@1470863940.41602AASaCBfUlW1s0EXdni</segment>
+  <segment bytes="792699" number="15">hgswSxpL3MBpTV4I@1470863940.41607UoIB01LQq1IsvJosV</segment>
+  <segment bytes="792593" number="16">CbrsP2qKqozSWQzH@1470863940.416114Ynv0tJhZoDdy</segment>
+  <segment bytes="792765" number="17">pcXUYJenxksT9gdjH@1470863940.41616LOTFGbU6Lxuh</segment>
+  <segment bytes="792650" number="18">EX7L8I0lU0UiWB@1470863940.41620fVdxjpMGVKK</segment>
+  <segment bytes="792817" number="19">PaBMfFuL65@1470863940.41624U88WNeGSYdDQ6a</segment>
+  <segment bytes="421443" number="20">vI0F0uEEiJtuQSDuJClA@1470863940.41629oPCCrB7knePrj</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863945" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.30&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792794" number="1">F0NrFYTJ94ulbZ4d6@1470863940.40552wAK4Ncfkaf3qqXrQg</segment>
+  <segment bytes="792638" number="2">UQoXwSXx8A5lhbv@1470863940.405577OSRExKnid</segment>
+  <segment bytes="792466" number="3">ZJZKKoDLWt5aCiy@1470863940.40561aPoO5SxmDB1o</segment>
+  <segment bytes="792643" number="4">IgDs8pDKXXe@1470863940.40565Fn6ATL4FuGy</segment>
+  <segment bytes="792512" number="5">BIRToIqp2x7@1470863940.40568IuCXfa085CMt</segment>
+  <segment bytes="792473" number="6">GJprmojw1KCLHhxD@1470863940.40573eNBJ1WUMGx</segment>
+  <segment bytes="792667" number="7">mDtSsm3Me4SfQ0u@1470863940.40577mLguRfSb5HS6KgCy2q</segment>
+  <segment bytes="792740" number="8">pj4wbWs941FmC3@1470863940.40581HDvx6lszmwr</segment>
+  <segment bytes="792657" number="9">UUpQx3qO5jpo0@1470863940.40585LtwpGi0mScg</segment>
+  <segment bytes="792743" number="10">Q51TjzEB5sM2QB@1470863940.40589qTuVWCbECT7ORLGH</segment>
+  <segment bytes="792683" number="11">oGnZja87ytot3gWdRVMI@1470863940.40593N2NJV4OEgiIzLD7kivgj</segment>
+  <segment bytes="792791" number="12">vJ0aXQzMZI@1470863940.40598zB6JsofE472c</segment>
+  <segment bytes="792850" number="13">sVNNLXy1JtF2vTGe@1470863940.40602wCgbWwUZdduTvimyFF6p</segment>
+  <segment bytes="792513" number="14">ofMneupMQYS@1470863940.40606aXntuukr2BVTk4o</segment>
+  <segment bytes="792483" number="15">SljG2NIGIywrsI@1470863940.40610B13jsRHG94vK3FmHlT</segment>
+  <segment bytes="792669" number="16">cIkm17FIGN@1470863940.40614CLjiYyQMbD6k</segment>
+  <segment bytes="792619" number="17">omuk2Kwa1xp@1470863940.40618vkN6PvQ9rjpXwZ16dS</segment>
+  <segment bytes="792689" number="18">nSTY2erxT2bWMUhoa2W@1470863940.40623nRHWSTgYW08Dx</segment>
+  <segment bytes="792684" number="19">8jioD4ehBTj@1470863940.40627qGCarhsikDLe30mbd</segment>
+  <segment bytes="421355" number="20">6FDVX0KosaBcA7@1470863940.40631zKMpUpedLQuChy1YMt9K</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863941" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.31&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792128" number="1">Jc3f3q2tmRUlVnXtM@1470863940.39448wmE4bXUpZ0</segment>
+  <segment bytes="792162" number="2">pxtnZIQBIsBr509Nih@1470863940.39453rCy6Z2upIbCLxShsn</segment>
+  <segment bytes="792389" number="3">R1LBh94bkxYi8EGcG@1470863940.3945710BNXtlXQsTeXl</segment>
+  <segment bytes="792165" number="4">uesZ1nwyyvtEh@1470863940.39461r2JS616FZ52m8GVqWh</segment>
+  <segment bytes="792170" number="5">cVAjSTv1fYPmc9w4i@1470863940.39466c8GOWbeEM7H</segment>
+  <segment bytes="792402" number="6">LTtcIop8UN2KfgtdPb@1470863940.39470XFruFoqbKOeHKvkX9bXg</segment>
+  <segment bytes="792246" number="7">5ROzTAm93Kgp@1470863940.39475kTUg3iIUMgo8gsuRTqDl</segment>
+  <segment bytes="792134" number="8">6oRawPoyQ6CSxyB@1470863940.394798DYsM8lREvwUahhyD41</segment>
+  <segment bytes="792151" number="9">7WlvNymJN2EzotfdEhS@1470863940.39484j4LNM49BAYahwxyyp05</segment>
+  <segment bytes="792436" number="10">y9OWEYfJ85@1470863940.39489E3EX0rEFHC</segment>
+  <segment bytes="792538" number="11">tGpr2PQRwwva1V3@1470863940.394940aBGvevE1oRJnLLRCj7</segment>
+  <segment bytes="792297" number="12">wRnf47PGE7cmU@1470863940.39498THPoRZvrn0bjrLI</segment>
+  <segment bytes="792391" number="13">e9K36mWPZK26K@1470863940.39503yTEL7w67RvAiXg</segment>
+  <segment bytes="792005" number="14">ap4j8whG9Lp3x2iu@1470863940.39507lGqXabVIVuH</segment>
+  <segment bytes="792213" number="15">2FYjHi1Z560xci28@1470863940.39512zlJh2XO1H5</segment>
+  <segment bytes="792412" number="16">COHo3wIXOeA@1470863940.39517dAXDOJ4qMpxWx</segment>
+  <segment bytes="792320" number="17">hhfSncuJclP@1470863940.395215gG8Nv9YMFQ</segment>
+  <segment bytes="792270" number="18">SOzi7ZluYUln21Py@1470863940.39532fV8laxX1u1gDm7t</segment>
+  <segment bytes="792254" number="19">RIh3g7XvHwtkVQA8enXf@1470863940.39537oRqRvuUyjoP3P</segment>
+  <segment bytes="421206" number="20">U0No4k6azGXYDERM@1470863940.39542WcC4FStpkfJ67H</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863944" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.32&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792510" number="1">nLFsFTUuhtoNNTCVlW@1470863940.40393gPMPnAXxdvCQ</segment>
+  <segment bytes="792723" number="2">9wtTWHxIPkvg@1470863940.403976ka1bwNfiPEQgrUmUZ5</segment>
+  <segment bytes="792589" number="3">PCuwKDbOljOywlDtZUn@1470863940.40402k9O4XoeDhK1kdA7</segment>
+  <segment bytes="792644" number="4">FV2CYTCWD038JpgSXj@1470863940.404060Y8Q9pQZzkkrH0B9</segment>
+  <segment bytes="792810" number="5">hN1yd5PdB84vusDY@1470863940.40411NY5E5kuiPJNRyAFrMq</segment>
+  <segment bytes="792544" number="6">1J04vsoXp2tVXBK8@1470863940.40415sLzw5LNzbH7Gm4BWJD</segment>
+  <segment bytes="792710" number="7">8C5lS3p1vza28W5iapN@1470863940.40420bdVuYUgQXqRWD2V</segment>
+  <segment bytes="792407" number="8">b6mOQedTKljMcHSPd@1470863940.4042440kjyQajMgKhZ</segment>
+  <segment bytes="792589" number="9">OUXXiQtjJ1w5acW1DoW@1470863940.404282Visp7ed4LgyxLNb</segment>
+  <segment bytes="792544" number="10">NmkC4727mYyqAwDWRh@1470863940.4043309Zqtqfs47KTxf</segment>
+  <segment bytes="792631" number="11">1lxOPpADdjrts@1470863940.40437n5aEbaZ6ZmTzRDjOQHTD</segment>
+  <segment bytes="792772" number="12">Olk3nvN7eASzt5Bv@1470863940.40442JPcGWzvMXb</segment>
+  <segment bytes="792729" number="13">w9T908hHnYs@1470863940.40445BsYljcAJnlH9yAyLYRGH</segment>
+  <segment bytes="792926" number="14">ZiTmUmhWCVU0gC89t7h@1470863940.404501AZM06dQuNphngyi</segment>
+  <segment bytes="792801" number="15">tyl5GEbLcq@1470863940.40455aXV9JyIdIDY</segment>
+  <segment bytes="792784" number="16">B9jOPtGAdyIgsbPogZ@1470863940.40459Lv6O4G1x47</segment>
+  <segment bytes="792638" number="17">1jaUfaC55i353@1470863940.404639rWbM4U0AXl9F</segment>
+  <segment bytes="792751" number="18">HcYSQnSZPuwpDOkpw0@1470863940.40467gIPVwCghtmZm</segment>
+  <segment bytes="792709" number="19">3ox7u1Kn978Dw2xMl4Ug@1470863940.40472YxJtEb31PB8KMIDk31ON</segment>
+  <segment bytes="421313" number="20">YOuTSYgxMcILBt3nkh2@1470863940.40476N1m5lwQb07hlVb56C</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863942" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.33&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792726" number="1">QAuSgNwJAeEqlo@1470863940.39837T8CzSnM82Oiv</segment>
+  <segment bytes="792642" number="2">WhRCcKDDqk@1470863940.39841pENvySwoy9HCbUC0E</segment>
+  <segment bytes="792676" number="3">nROU11F5u1CuDclKq9lO@1470863940.39846un5CPgH6Dwwtf</segment>
+  <segment bytes="792839" number="4">bGlmnmn8J8Jne@1470863940.39850d29fyukdi85lx4FFFj</segment>
+  <segment bytes="792819" number="5">UGTaxeh3zrj8SE@1470863940.39855q1aVEXLO3a</segment>
+  <segment bytes="792552" number="6">4KXuEdURjNbbpyti0kG@1470863940.39859cDDDj1crNLqgbf99xq</segment>
+  <segment bytes="792807" number="7">2TpB1nTFzHAoqr@1470863940.39864sebWNo9smRCy</segment>
+  <segment bytes="793122" number="8">oHQCAQVcvGAZ@1470863940.39868k4jDQ6k2CoLeOcv7</segment>
+  <segment bytes="792603" number="9">V84SgB8NLMdczfghwJSb@1470863940.39873d62FvHDpQW</segment>
+  <segment bytes="792754" number="10">2ZAPeg6HAsJqA@1470863940.39883A1c4Mk5HMoiac4</segment>
+  <segment bytes="792558" number="11">yHboE3kw2QVC@1470863940.39887IZsGNyzkzCyPyhZS1aj6</segment>
+  <segment bytes="792680" number="12">HVdXexyvPEnTWUHB@1470863940.39892b7By3jJIYir8V8jcJ</segment>
+  <segment bytes="792767" number="13">New7tBfc3w7v5@1470863940.39897cRVGFAasN0lTFNinu3</segment>
+  <segment bytes="792790" number="14">3zXd4VcueNd@1470863940.399020CM2vxbPC1Jj19V</segment>
+  <segment bytes="792597" number="15">5l772gkkwFm9DNdo@1470863940.39906qy8FaBj3U5l0d5kRNSfZ</segment>
+  <segment bytes="792626" number="16">uc5XWUGCgUwncvlgMejd@1470863940.399111cOQBMh3W5PJJd</segment>
+  <segment bytes="792825" number="17">Hzh1i1GvDF9ypA@1470863940.399168NsTsGT2j2Bm</segment>
+  <segment bytes="792794" number="18">jjeaanO8tJBnKDiToWl@1470863940.39920nRLmtRJY6KP98qfg</segment>
+  <segment bytes="792556" number="19">KhPhkAT4juGLukF@1470863940.39925VB0RlEdOHgj</segment>
+  <segment bytes="421371" number="20">jby5Tiz53oLfp1cXI@1470863940.399297SktMd26F7SMN0TUh5F</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863954" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.34&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792447" number="1">BqfHmwUx6WKUY@1470863940.42875b8sxKobtRvx6eVgA</segment>
+  <segment bytes="792617" number="2">76j5h5sj2HE7utnlT@1470863940.42880OnHU1iKdfNOrqg32</segment>
+  <segment bytes="792711" number="3">RT5hlkfr21C5Fh@1470863940.42884FHaNLdE6JjKQM</segment>
+  <segment bytes="792777" number="4">AKJl1UzJhFwiVn7L@1470863940.42888M6Is35rHcrsPIbjpCJT</segment>
+  <segment bytes="792334" number="5">h5cAmraMa7qC4hMN@1470863940.42893tOjzdCqECJy6cx6Fd</segment>
+  <segment bytes="792421" number="6">TeanOEGQGSQwy90@1470863940.42897muxux3JoNveHpzV</segment>
+  <segment bytes="792509" number="7">53EwfbrFIybyMS7dQUq@1470863940.42901kyXgFXFkhvmXUq</segment>
+  <segment bytes="792561" number="8">Hjvj71TxXAdQr@1470863940.42906bBGpPRdlyOANn</segment>
+  <segment bytes="792662" number="9">dNWv12IwmHK@1470863940.42910loHt4qUtMU0TruKPYIg4</segment>
+  <segment bytes="792675" number="10">boNBU3Jwm2lbxY6zfN@1470863940.429143ZFg1xNvzj6Q3S</segment>
+  <segment bytes="792808" number="11">kdnYpKzs82NunBs18@1470863940.42919yhXcRRHOFtgssSNOC</segment>
+  <segment bytes="792664" number="12">ksatFVOjVchR11D@1470863940.429230p3Zy94WX8LKsy</segment>
+  <segment bytes="792568" number="13">bhW5cBhWLro@1470863940.42927jjIMHSCJ74fmgL</segment>
+  <segment bytes="792565" number="14">KodS7mX4yGQkdRTQe@1470863940.42931raMDBNxRaqN5t9</segment>
+  <segment bytes="792560" number="15">Mv6hiViLSWwIu1jSHAa@1470863940.42936QMYoPJ0wdvbnt72i</segment>
+  <segment bytes="792649" number="16">Tmm256Pvrg12TCbh4@1470863940.42940sj3h8P2EXdd</segment>
+  <segment bytes="792607" number="17">wIr3WBuSYuh9BQuOKxn@1470863940.429459H7bLCFtzq506VswP</segment>
+  <segment bytes="792607" number="18">pODNdOGkeyLAp@1470863940.42949CKXCO35yegMxmvq9Fmc</segment>
+  <segment bytes="792450" number="19">11tGBVk5I9Zn55A7W@1470863940.42953e8sqIIzB4MW1Q0YycHdQ</segment>
+  <segment bytes="421126" number="20">FYir5ev7Cx7rlGnlX@1470863940.42958ieLvELCZtqhQoMe</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863953" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.35&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792584" number="1">5cJWVk16V9rp@1470863940.42692DpN5MUp4IfbfRD</segment>
+  <segment bytes="792751" number="2">prGc3vkyulSNE@1470863940.42697fqb6gKGn6KWJ0ssX2O3</segment>
+  <segment bytes="792660" number="3">pgfRzuEa3j@1470863940.42702ENGvc6ST30qeT1HShR</segment>
+  <segment bytes="792655" number="4">eFUZ1FEeDCDiU7b@1470863940.42706gqfiax6aZk</segment>
+  <segment bytes="792573" number="5">l1Zso4Ua9GMHpGau8P1y@1470863940.42710wkvYsh9QA81zf</segment>
+  <segment bytes="792468" number="6">4eUkvCXl2SQ441@1470863940.42715yzYkqaIAxWsTEOMh</segment>
+  <segment bytes="792435" number="7">pVzHvnoovY2ul2eFOYJj@1470863940.42719O3DihbIqdYSVx</segment>
+  <segment bytes="792601" number="8">YTeGqWf1HF@1470863940.42724ATsSRWiVFfcxbxaGxa</segment>
+  <segment bytes="792808" number="9">4s9Ftw5WzeZZLMf@1470863940.42729k7Gtwr9hHcd</segment>
+  <segment bytes="792712" number="10">XvA2DPOgssbWyFu@1470863940.42733S4MWSzKpI21tGD</segment>
+  <segment bytes="792736" number="11">xHuIiiT4Bi9VY1@1470863940.42737IxalCeVqir01KjM</segment>
+  <segment bytes="792791" number="12">3walHyzM8TSh9@1470863940.42741QX2htw9jpl4</segment>
+  <segment bytes="792474" number="13">2ffRoqoqlTfLS@1470863940.42745W11VLqLjnivGbl4lIaLb</segment>
+  <segment bytes="792571" number="14">7aCCAaWP61@1470863940.42749mWtMydcyzgwnpEtkkE</segment>
+  <segment bytes="792737" number="15">3IcnDe7Fzkor@1470863940.42754ZNrii0UpQEBGjbc</segment>
+  <segment bytes="792428" number="16">shHSNmNyfDiwtxW@1470863940.42758YkOqffDRXw9</segment>
+  <segment bytes="792332" number="17">nYP2hKU25fYhQU@1470863940.42762HB69rFCTU4Bp</segment>
+  <segment bytes="792656" number="18">WfKZ6l3dqEFfp7egont@1470863940.42767tCLFQhAXiADxdXZr8</segment>
+  <segment bytes="792660" number="19">EZg6A77wkaWvz@1470863940.42771DmxXsypc7iU</segment>
+  <segment bytes="421112" number="20">mydfAHDKidvQpCCJ@1470863940.42776v5HmCQjCagoI0Ls2iIcG</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863953" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.36&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792730" number="1">cfks7Fs1XznCZIHG4Hu@1470863940.42605elpzKdiP7WRQ0XTk</segment>
+  <segment bytes="792664" number="2">ne3LuqvbHUu@1470863940.42609n95XtHYxB2c0RT</segment>
+  <segment bytes="792503" number="3">Tuzp2D8aDl@1470863940.42613o8dvv8eM3yDE7le</segment>
+  <segment bytes="792670" number="4">LWXXQdRQ0I@1470863940.42617KlcwSDdeJx9J5er</segment>
+  <segment bytes="792792" number="5">7OFZK7k9QB4vfW@1470863940.42622316BOpFLOMkhFKURJH</segment>
+  <segment bytes="792603" number="6">6NSAnuKSBjbrt2RdF0@1470863940.42626zdQQKTbWS4AVhki</segment>
+  <segment bytes="792716" number="7">QvMEHLYNVGKr6@1470863940.42630UzDQVrQavxrz</segment>
+  <segment bytes="792566" number="8">KxccLgKKUHd@1470863940.42634TImnXnwqTr96r</segment>
+  <segment bytes="792544" number="9">MYtauDUU7aLR@1470863940.42638DuweadMwF4tVx7YwwVXM</segment>
+  <segment bytes="792648" number="10">2QIvm1Er3YS6ny@1470863940.42643ws9w6MWbiU3</segment>
+  <segment bytes="792607" number="11">O5RxZXjU1VHQb3Y@1470863940.426478X3Z5JRAlJid</segment>
+  <segment bytes="792760" number="12">ZZb8J1Ta93Yz2C3a@1470863940.42652JO8rtKVuCB6woADdv0</segment>
+  <segment bytes="792417" number="13">zilyp4peTzBn1w@1470863940.42656M6MHCu3coYvF0</segment>
+  <segment bytes="792916" number="14">AV8K3oSk3fufD8V@1470863940.426600ni4Qz2uerUkQEc8</segment>
+  <segment bytes="792513" number="15">C48stn2zhGlwdCc@1470863940.426657wPaXHlkAvPg5Fh5Av0</segment>
+  <segment bytes="792532" number="16">L336hMXhMCxVlY6@1470863940.426694I6hQX5S63HzEne8E</segment>
+  <segment bytes="792377" number="17">MkPjtlLRXJEhPYZ@1470863940.42674Igs47tiuKNl</segment>
+  <segment bytes="792774" number="18">ec2B60WFYAYnbIHiX7u@1470863940.4267884z7vPo6OgK</segment>
+  <segment bytes="792631" number="19">wY2kgeCKNTVbAxa2@1470863940.42682FmOZvguhyNp5Jkd</segment>
+  <segment bytes="421343" number="20">cbQDsVOAImQNO@1470863940.42687BFcrTLdlwbyXoX</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863948" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.37&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792765" number="1">xffSkZNrjK@1470863940.412593oeBkhzYi3</segment>
+  <segment bytes="792676" number="2">aTzuncBZbSsw@1470863940.41263lZ7WX0SRXT0vpHb5Ek</segment>
+  <segment bytes="792575" number="3">xuo9EeNILhFPiyiD@1470863940.412685bJozlKkd30</segment>
+  <segment bytes="792553" number="4">4I72FVPC16Ps9g7W@1470863940.41272OCBMGWlG6VPMVr2vj</segment>
+  <segment bytes="792634" number="5">Zc8shUX3UTRGmDFx@1470863940.41277lxydpFZ3iOOx</segment>
+  <segment bytes="792701" number="6">Ix5NdSX1dWAHYxKY@1470863940.41281B3Hd2Dyqj89zi3OYk6</segment>
+  <segment bytes="792775" number="7">AOfB8emqb8Tp8WWIqq@1470863940.41285bfaBWF6OvgQiMI3z</segment>
+  <segment bytes="792599" number="8">gopOEu78cwwCmNS@1470863940.41290lKgGtGRkmro</segment>
+  <segment bytes="792675" number="9">C6bCNe2DTmF6S5Qe5@1470863940.412944Rgttq3rdSiwQOurA5</segment>
+  <segment bytes="792678" number="10">Wg3r7ksdfIE@1470863940.41298WmDLbFwFYsZG58rPA</segment>
+  <segment bytes="792753" number="11">LgB3mhwIi4@1470863940.41303Wkezom2DF279r</segment>
+  <segment bytes="792740" number="12">d5jooAHexJ0k@1470863940.413071b2KMInSbFAkjtyFht</segment>
+  <segment bytes="792484" number="13">xqydhDYfO0E@1470863940.41311U0b3gkgw248ZPI1</segment>
+  <segment bytes="792618" number="14">n1jNPSO4NKqhGoK@1470863940.41315eW3wjtMXFp0DV3</segment>
+  <segment bytes="792639" number="15">TnnaNnjJ8FnMonKDQs@1470863940.41320Ko2nD65fYPlC</segment>
+  <segment bytes="792717" number="16">3hoHIMhSgmyFxdVgokv@1470863940.41324QZydwY4RJw9ygn</segment>
+  <segment bytes="792574" number="17">fA1VoysLeV3F@1470863940.41328wlvDsfUw5Qf</segment>
+  <segment bytes="792782" number="18">UZRJdWHNTvYly@1470863940.41332upafQOH48YaDRH3pT0C</segment>
+  <segment bytes="792743" number="19">5ThjfQvAY2UsEQF5tud@1470863940.41337NyCVkhYGdnrfy4u6eitB</segment>
+  <segment bytes="421265" number="20">AeZjGKUHYBZxji5aXwGQ@1470863940.41342WV4xxO5WQB1yrw5ze</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863951" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.38&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792720" number="1">Gc7VBKAWKmGNVuJdxlG@1470863940.42082R8irQEgX39GGT</segment>
+  <segment bytes="792903" number="2">UemdW3PmLX@1470863940.42086tUyf1mDA1isGh2CuWwqP</segment>
+  <segment bytes="792848" number="3">nEbcdWuCWFI@1470863940.42091EEvbA3Vwe88OGl3</segment>
+  <segment bytes="792691" number="4">9ond8gcXtN3@1470863940.42095V2rF3RPszYlKaez</segment>
+  <segment bytes="792618" number="5">e5Xt6t7YAkWxvy@1470863940.42100i3esmWQ0D5m</segment>
+  <segment bytes="792471" number="6">saQvTpu5fY@1470863940.42104O4OmSQkN9HQ</segment>
+  <segment bytes="792850" number="7">fpqv0X6YNIXIwCNueB6@1470863940.42108QR9Y5yZWuXD6inBjiTsr</segment>
+  <segment bytes="792897" number="8">r3QG2USFFhs@1470863940.4211328XmT00U7DnuSZ0VV</segment>
+  <segment bytes="792793" number="9">f7VNsIjyVwIa8v@1470863940.42117PADwFweQnhT2cqH</segment>
+  <segment bytes="792685" number="10">sjzPTlKdwokKw39ZAD6@1470863940.42122BXddjTnUIgzSGpj</segment>
+  <segment bytes="792803" number="11">giAbnBRfg1rXvrCN@1470863940.42126G0qhL7M4XuRFjta3vkOR</segment>
+  <segment bytes="792734" number="12">k8H55RPDR0q@1470863940.42131K28No8SfnJ7</segment>
+  <segment bytes="792697" number="13">VZxMC5M2wI6OGKpd@1470863940.42135Bgz8yRviq8</segment>
+  <segment bytes="792668" number="14">m0ywDhBi0v@1470863940.42139bjCJ35dbfQo</segment>
+  <segment bytes="792762" number="15">aW2wtN1NUKqzIwKlOFnI@1470863940.42144PNvd3DLGZYoDG449g</segment>
+  <segment bytes="792519" number="16">qC4brVS0aEbG@1470863940.42148XT3Fyk68pUawtLrT</segment>
+  <segment bytes="792626" number="17">nHHebsYQavd@1470863940.42152ewTCh15s9Qvm4</segment>
+  <segment bytes="792496" number="18">kfbnuA7oz1W@1470863940.42156MKrP48QPWEumuibOAZ</segment>
+  <segment bytes="792854" number="19">wu23qA8EObsHenl3oqa@1470863940.42161ZsD3QaOsCem</segment>
+  <segment bytes="421316" number="20">sMH7n8xwqxFZxo88@1470863940.42166ufDfo3RBZ1s2UvL</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863949" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.39&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792754" number="1">hCWyyFMedKRFegJ8H@1470863940.416347l7qDPBSIC6F0Ulvv</segment>
+  <segment bytes="792969" number="2">4Jf3OlrREh53JyFUa@1470863940.41639wn2BZpZPCbxRfO</segment>
+  <segment bytes="792470" number="3">fPcx6oF2FrVR@1470863940.41643eMQ0xMPTNVMar77</segment>
+  <segment bytes="792542" number="4">rMrYT5EOJsPk@1470863940.4164713TM8lGC1Bw3OdmQ</segment>
+  <segment bytes="792786" number="5">H8GWBkKgpwauKpuev@1470863940.41652Osj8LZBX1ndBk</segment>
+  <segment bytes="792745" number="6">FR8fzblqy2@1470863940.41656LgHEncxnc8ODH7gGD6p</segment>
+  <segment bytes="792828" number="7">iZmDAGs0mazMLgyRyOd@1470863940.41660KKFZOJO9cGvUK3E</segment>
+  <segment bytes="792806" number="8">cZPlt1Bt6P@1470863940.41665CfwttbJMXZuPbDLj</segment>
+  <segment bytes="792979" number="9">tlpC03UW57TkwFeIS5@1470863940.41669v4gGcCWSN7gQak7HmYWx</segment>
+  <segment bytes="792746" number="10">7OTAunAB76@1470863940.41673Rw0RnQuxTEhHzsv9wJK</segment>
+  <segment bytes="792824" number="11">99Ui0olqv1@1470863940.41678gulbZkkSA2sAuP5BZ3</segment>
+  <segment bytes="793137" number="12">yI4k5y1ArZHbWjz@1470863940.41682dz3cWsLMSxQuZmWDS</segment>
+  <segment bytes="792666" number="13">devLKvpog8PBoOW9t47o@1470863940.41687BzNeBXbt5UMr9lD</segment>
+  <segment bytes="792685" number="14">YV8Qm185y3@1470863940.41691kEI3nDX752x</segment>
+  <segment bytes="792601" number="15">HtCCUvhygKkHYZ@1470863940.41695uZkv1dTjpPw</segment>
+  <segment bytes="792857" number="16">EMgzmGXBnVo@1470863940.41699yUBpwCPiKhlYeE6wEYHo</segment>
+  <segment bytes="792721" number="17">7tqrdgKOQ4B@1470863940.41703cyEVQl0jPO</segment>
+  <segment bytes="792702" number="18">lnNzWWQH4ROgVkxAKQ@1470863940.41708dCjJFPkqrGVEr</segment>
+  <segment bytes="792725" number="19">s2a0ozuumrKNCrIVW@1470863940.41713tWVrXaiUz0a</segment>
+  <segment bytes="421275" number="20">IOa9xFdnAZFAMyA91u@1470863940.41717VzWO33bTKDZNzk</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863958" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.40&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792370" number="1">eHvNCryJ0ICldHU@1470863940.44011lQhEI1kd7vUuj5VH3</segment>
+  <segment bytes="792418" number="2">2KfCKXH9RAp4ZAyrhR0n@1470863940.44015CFt8zVVT3l</segment>
+  <segment bytes="792972" number="3">julon6NEpz6hE@1470863940.44020PdgwylnV04caESHhT</segment>
+  <segment bytes="792560" number="4">XSlUW0PyRiTVK@1470863940.44025ggSOgcGN4M05</segment>
+  <segment bytes="792670" number="5">pGJCTNkq9Lc4sWp2DzOI@1470863940.44030NAyxvkEi41CmqYVEGYkY</segment>
+  <segment bytes="792767" number="6">75CpJbGhr9g@1470863940.44034L4QAXVZOzMTxb</segment>
+  <segment bytes="792738" number="7">KU84bJgY7Ce9tEHT0lJ@1470863940.44038KwLZqkaRfJ2aH1mXPnX</segment>
+  <segment bytes="792736" number="8">UCuju2rL1A2@1470863940.44044M3Yi8eTr3kwDuSYVN</segment>
+  <segment bytes="792447" number="9">m1bpMGqN3sRcbk6XK@1470863940.44049xaLJTJxa7hfwDVqjY</segment>
+  <segment bytes="792413" number="10">WIZdoOvkDxuu9o@1470863940.44053IE9pp9kjb0C</segment>
+  <segment bytes="792477" number="11">ZlD4vcHQneFwHu@1470863940.44057PKQzwCzUlOupgt</segment>
+  <segment bytes="792833" number="12">EUJjINAGHOka6769c2@1470863940.44062cS4vDN7z9eiW5QEiXi</segment>
+  <segment bytes="792541" number="13">EO5CV7kLwTufesCreV@1470863940.44067PldRTAWlkh7I1tGL4</segment>
+  <segment bytes="792651" number="14">HXUCsmC4WPoWDs7fkK@1470863940.44071sM5kIAopIZg3tr</segment>
+  <segment bytes="792651" number="15">HWdfxdeNdwKFg@1470863940.44080qQOPqc9ThRVpCh</segment>
+  <segment bytes="792713" number="16">yKmUkSlQgJNu3FE@1470863940.44085EIhdkOXaFuD1E</segment>
+  <segment bytes="792886" number="17">ZICNu64HcHAfijqUw6@1470863940.44089gxyeH6rYay</segment>
+  <segment bytes="792687" number="18">AxErWXolRbQX5B@1470863940.44093y77xxzBmxgYAbL1</segment>
+  <segment bytes="792790" number="19">9iPlqnI28nS0Zvk9XqI@1470863940.44098YxyLBd6lr1FK3</segment>
+  <segment bytes="421249" number="20">zBoaH8gXRUKQT@1470863940.44102Gpn3lsXxvyjNvpH</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863956" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.41&quot; yEnc (1/15)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792561" number="1">LdcuYywRZG9@1470863940.43423zbCyUnsqoUf9BDKWo</segment>
+  <segment bytes="792571" number="2">ovwwR6yFhn@1470863940.43427IP0lZLwxuennwuT</segment>
+  <segment bytes="792552" number="3">J60vv413aLgBO38EmxN@1470863940.43431xnrKFBEWJp</segment>
+  <segment bytes="792675" number="4">MYmJ1S4cgvnYNBVD8l6V@1470863940.43435crGNjFH9UkBFAQByME</segment>
+  <segment bytes="792566" number="5">djyUSzm9oG8dM7xX@1470863940.43440ogkWkct9hS30q</segment>
+  <segment bytes="792566" number="6">JCokDRUDhkXQKvpT@1470863940.43449I0EYodIO48</segment>
+  <segment bytes="792543" number="7">kUJOBnqXZ3wORTG@1470863940.43453QftSsFUbuD</segment>
+  <segment bytes="792563" number="8">AsTwpNktMDsaGUmUp@1470863940.434573dWgztl4lt6</segment>
+  <segment bytes="792682" number="9">Q38Ma5VAayrG3w1du@1470863940.4346176iBanrp5Mqy</segment>
+  <segment bytes="792780" number="10">qLIXdE12ehDY6Xr@1470863940.43465M22xvZoHG1N</segment>
+  <segment bytes="792758" number="11">lf2xSRq5OSPwz7z5@1470863940.43469lkeAkn86AQ</segment>
+  <segment bytes="792685" number="12">0jweaH7LtXSdvvZHB@1470863940.43474AMOJpq1GXsQP</segment>
+  <segment bytes="792581" number="13">uDbrFYfLCl9dxfGgx34@1470863940.43478QedRKgZTGoC</segment>
+  <segment bytes="787565" number="14">iO9pOHHslnToEFl75US@1470863940.43482HGt5xHkwfsht</segment>
+  <segment bytes="631074" number="15">iLEax7alOr9p3dbYGMmA@1470863940.43486jQ79RlJ095wVDPN0g</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863942" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.42&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792547" number="1">bQwUC5A3Dao5vGA50@1470863940.39746RPYDe1vv5WTlmrISV8</segment>
+  <segment bytes="792754" number="2">3plTBJ74AqLsFqxr@1470863940.39751jzJl7RbJDE21rH</segment>
+  <segment bytes="792608" number="3">EGay2fKy6ZV5x@1470863940.39756qjixsIjYPXEIlED</segment>
+  <segment bytes="792773" number="4">ytyXtN6daL1FKp@1470863940.39760c3If3HCnoX2jNbMq</segment>
+  <segment bytes="792761" number="5">JSd4gRAnDBwRA7k@1470863940.39764JFomER6JmVZ</segment>
+  <segment bytes="792998" number="6">DIv6byArv2ZVnFRJb@1470863940.39769nSuQpSPARN1dOsPRmiC</segment>
+  <segment bytes="792879" number="7">OaRQQKf61WTbA@1470863940.39773rJMrk4aGJ1iOOib</segment>
+  <segment bytes="792799" number="8">oQHjOHcOvkLvNd@1470863940.39778dqyEOjO7dUiHEynk5</segment>
+  <segment bytes="792798" number="9">QCRq1ZxhCjjBC@1470863940.39782IekmN0Eibp</segment>
+  <segment bytes="792406" number="10">vQYhxU66PXYsyE@1470863940.39787aN1rh6hgB7</segment>
+  <segment bytes="791021" number="11">d8a9vc48mP@1470863940.39791Jy6dtxkY0SYc</segment>
+  <segment bytes="780609" number="12">BRZSNO66BwzmNv8iw1@1470863940.397959GYSIW6Oarad5pK</segment>
+  <segment bytes="789600" number="13">GpajdvjDdFwR1m2xnh7J@1470863940.39800KtlddYuNX6uxoVvCK</segment>
+  <segment bytes="780402" number="14">VKNumnIZ2ecsWfeQ7@1470863940.39805Ru6jBiLfQ6RR9j7T</segment>
+  <segment bytes="782101" number="15">I8zcTTxR8jMTH@1470863940.39809YlJsPPr6SvxuKQzVyXz</segment>
+  <segment bytes="792730" number="16">ocxUSHF3vXs@1470863940.39814wAviIdXhmBfzrrBQy9n7</segment>
+  <segment bytes="793048" number="17">gFYPlsLadNtA@1470863940.39818I0vhLUTEkiKvWgMsDQ</segment>
+  <segment bytes="793193" number="18">jaVlZAHWqw@1470863940.39822Sjwswscn3EPQSm3Sgw</segment>
+  <segment bytes="792933" number="19">D5f5gegvlQyMoKzV@1470863940.398274VhZ95SJ4RuwmhAKkpL1</segment>
+  <segment bytes="421454" number="20">FDrCwPrBRm9@1470863940.39832GyZCRmDnCr</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863953" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.43&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792487" number="1">nekhKDNIFos2x0ZCC@1470863940.42506ys1w9KZVC65iW5HVQw</segment>
+  <segment bytes="792719" number="2">O8OoPelomMfDMYk2@1470863940.4251129R7B9eIV6JvdglW81Y</segment>
+  <segment bytes="792715" number="3">YFgxfPbxM3ej@1470863940.42516KWMS6ouHx4QE91n5Y</segment>
+  <segment bytes="792499" number="4">eDNb3rjexA4I1MNEWiPE@1470863940.42521evIcbLKmbJxyF7OEtJi6</segment>
+  <segment bytes="792474" number="5">gCbzEq6Pzh51@1470863940.42526sKmdqPOVCUN1dSQOseq</segment>
+  <segment bytes="792569" number="6">WfHUFq4yB322uCwG1NX@1470863940.42530kiJ6NBXYDfKuKjq</segment>
+  <segment bytes="792510" number="7">CNiJjUW8cm7nTCl@1470863940.425340T1oBT7XdLSdTHUjh</segment>
+  <segment bytes="792710" number="8">IywF0h9Rkx5J@1470863940.42539y2MwNvpEvE8TG</segment>
+  <segment bytes="792632" number="9">kwefiskcwZoE69NYcFIz@1470863940.42545newi7zZo9aYD2HqNhN</segment>
+  <segment bytes="792610" number="10">RRV17ypwoB@1470863940.42550T0mhJtyv3dH3CJeEB</segment>
+  <segment bytes="792630" number="11">VvoZDHV0CwUkYRg@1470863940.42556CGwWhk1oQeQIxtPsa</segment>
+  <segment bytes="792588" number="12">j5wrZOkmsxQLNT4v4FQ@1470863940.425615D1xrP0E8SNI4YiaB</segment>
+  <segment bytes="792735" number="13">cbZtRjPjJ3pnT4@1470863940.425663uBf567OCsEqAqz8MU</segment>
+  <segment bytes="792737" number="14">vtQggy3hsaK3K7QvJk@1470863940.42570B5dwJN5OXWGMiOSInx3</segment>
+  <segment bytes="792760" number="15">nrI1tYHrqUGBtFjd@1470863940.42575ks1HRfPcpZ0z</segment>
+  <segment bytes="792783" number="16">RwbG6jKEI2QQ@1470863940.42579XdKc59P7aXwDpsu</segment>
+  <segment bytes="792555" number="17">gaNYYDvdSqyFgZIjqim@1470863940.42584sDTqtzW50x8eeqsr</segment>
+  <segment bytes="792797" number="18">bxsZqtFA08ShCcsuBl@1470863940.42590s2LtJsRfqJVzFu</segment>
+  <segment bytes="792664" number="19">qZ8KixLseM96@1470863940.425949wNbPRkU4CqESifga</segment>
+  <segment bytes="421287" number="20">rgSsSdC7LqDgGRDk5D@1470863940.42599F6uxxior08L3j7P</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863941" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.44&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="793314" number="1">SFjjvmGm8OSg@1470863940.39548E1jVsIXzg4HE</segment>
+  <segment bytes="793188" number="2">XAXg0gFOGY@1470863940.39553CJ9BpqeSY6gMVjyP</segment>
+  <segment bytes="793987" number="3">vy5hVOfE9A@1470863940.39558UXJOO78YdeFo50tKEi</segment>
+  <segment bytes="792937" number="4">hlt2TSuDi9Y21pGplC@1470863940.39563w1IcrM0laIVBqGBZz</segment>
+  <segment bytes="793069" number="5">MVCazmLWGH@1470863940.39567Rq0X8JCktNhavt1xAl</segment>
+  <segment bytes="792664" number="6">GNWC7B5GdPEZQJG@1470863940.39571CF02uBPDCW5jqIdz</segment>
+  <segment bytes="792677" number="7">Rz9usfCSmhOx@1470863940.39577emwZnjKHnqOn</segment>
+  <segment bytes="792700" number="8">GwC6RO0eZHHaju@1470863940.39581loiE3e9akGn</segment>
+  <segment bytes="792473" number="9">hstlsEMw6TBWvyvO@1470863940.39585H4MPHAOJo2qH</segment>
+  <segment bytes="792624" number="10">NLn1JaFqiZGm62@1470863940.39590JDJqlUcRz29mxNYu</segment>
+  <segment bytes="792388" number="11">IpXK8ba2pJ@1470863940.395952uItlAY4KiDAMke8UQ9I</segment>
+  <segment bytes="792607" number="12">wbMcWpilYqA3o0Y@1470863940.39600TyZCmjmWwOuneP</segment>
+  <segment bytes="793192" number="13">VNj3W78e6dceJz@1470863940.39605iVJmy7suxh55</segment>
+  <segment bytes="793555" number="14">xkY3tMWiiOITr@1470863940.39610FxqPvBDuxrTzv6aOIT1</segment>
+  <segment bytes="793203" number="15">zcaH8PXuN3zNDi4mNA5@1470863940.39615qOykKhrxbjQNJ</segment>
+  <segment bytes="793169" number="16">In2nbMet3NId@1470863940.39619FIXWUcujuf3oZnH</segment>
+  <segment bytes="794083" number="17">TxORcYnyjRWQstpA@1470863940.39623vP1ziE0eYu</segment>
+  <segment bytes="792805" number="18">ABfYYDT49W4mFY9oEvOj@1470863940.39630mjesWKhnSfAmzREPCYv</segment>
+  <segment bytes="792572" number="19">fyl9Zf2aENoDCnB@1470863940.39635p0D7KotW4HQqHb</segment>
+  <segment bytes="421392" number="20">NvgtxSMW5HZujo@1470863940.39641zGkaH3vY5X2LgipJvbu</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863954" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.45&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792153" number="1">WXoJ1rzQQ04Dr@1470863940.42781ZgdY2Gj8tgTndQGfo</segment>
+  <segment bytes="792198" number="2">a1llXOoyE2sn@1470863940.42786pNb0U3cOfmDZJ5BBSm</segment>
+  <segment bytes="792224" number="3">C9upc6P55WbEan@1470863940.427917AzVWNQzxUmPesHo</segment>
+  <segment bytes="792278" number="4">5ijU3w3YzPtK@1470863940.42795sviPlHlTkVN</segment>
+  <segment bytes="792611" number="5">YlmnScn2LSu0G@1470863940.42798zzZrQzHCPgH</segment>
+  <segment bytes="792856" number="6">qghhyJkHMKVDn49zw@1470863940.42803023jng8JPqyn6jnXpSp</segment>
+  <segment bytes="792887" number="7">4qvQ7vJjNNUhXHOxD@1470863940.42807D37ZtlL99RjWI1</segment>
+  <segment bytes="792708" number="8">yfkzhZQGYsjPn@1470863940.42812Fc5FsOBR58b</segment>
+  <segment bytes="792846" number="9">nif1rbexV4lqvA2kSXkf@1470863940.42821UimqfyzR3gO</segment>
+  <segment bytes="792762" number="10">LzR2rbFUXwfFy@1470863940.42825fcSTmZK9WDT</segment>
+  <segment bytes="792533" number="11">mCxtXKqaw1H@1470863940.42829KfZzXtGjYDKDIJ1FI</segment>
+  <segment bytes="792461" number="12">66vAAUnyyZiv@1470863940.42833y9K6Ssrndjml</segment>
+  <segment bytes="792694" number="13">Hxx43QyMz23ByfJdS1@1470863940.42839Clm3vbg3lZYM</segment>
+  <segment bytes="792556" number="14">pcPPDB4GUC@1470863940.42844XS9Caf8XT0shX</segment>
+  <segment bytes="792511" number="15">OFZk2xS7BXCyMG@1470863940.428487rVYFzNwqs</segment>
+  <segment bytes="791926" number="16">wOuAwvzppgvSCFJtKr@1470863940.428527g56yWieSnWj1PR</segment>
+  <segment bytes="792399" number="17">fEzH4h3BxV4LyyDKpS9s@1470863940.42857UATy1EGS4JB62L</segment>
+  <segment bytes="792253" number="18">aURrQh4lPVmLatAndaK@1470863940.42861ynZJ1Z65a8</segment>
+  <segment bytes="792220" number="19">dfAzUUov09uV@1470863940.42865BITcD3Sk3Ko56</segment>
+  <segment bytes="421074" number="20">D4wln6GMjoO6G@1470863940.42869t5kzCHooPDeJp2klj9</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863957" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.46&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792657" number="1">tKizuLQdegCbxDN1nX@1470863940.43604JrYfVMv2z04</segment>
+  <segment bytes="792717" number="2">NK5YbGxvl6Q@1470863940.43609e9SYrKWO71XrR</segment>
+  <segment bytes="792729" number="3">lz9W6PQYOjhp@1470863940.43613nrsrAdEPc3dM318fgG</segment>
+  <segment bytes="792738" number="4">WiFORbH8mka3ujDmFh@1470863940.43618czyHzqh9o6k</segment>
+  <segment bytes="792519" number="5">2GyKJu4IsoEw8paVsW1@1470863940.43622BJXegNSUb7Bb</segment>
+  <segment bytes="792587" number="6">YbmOokMmOeerOecO8h@1470863940.43626fFVxBCEB9292SlV</segment>
+  <segment bytes="792709" number="7">saI7BqjjNJGy17M@1470863940.43630ABX88KwJGRHx</segment>
+  <segment bytes="792631" number="8">J3FqGHAWRRdtP@1470863940.43635hg89OIOhKmfu1</segment>
+  <segment bytes="792611" number="9">pXxsHsahpVt@1470863940.43639srGfpVTdsQnt1KHZ06qC</segment>
+  <segment bytes="792793" number="10">7qMM3DdADo@1470863940.43643JjHyqXycgM2zWAV</segment>
+  <segment bytes="792868" number="11">XHXxR3jRON40@1470863940.43648NWy9DjqMBKJ</segment>
+  <segment bytes="792131" number="12">d5xbasp69zCN07@1470863940.43652MCchD650LzjakpYFZfKf</segment>
+  <segment bytes="792226" number="13">X5IScaD4lUVkKc5BC6l@1470863940.43657QB10xkwFqj</segment>
+  <segment bytes="792118" number="14">XTnFSkZnPyM@1470863940.43661ucauRbdvuLdLw3trAyw</segment>
+  <segment bytes="792264" number="15">p7X9AnvlxdfPU2QkRCPT@1470863940.43665rGZrfDnneQPu38</segment>
+  <segment bytes="792264" number="16">tjVuJ0kizT7RjIYca@1470863940.43669prDDMjfP2eTTPGCV4T</segment>
+  <segment bytes="792161" number="17">6gA7JlwyWQJGkJjTs@1470863940.43674BJsEBaCzzI4DWfSa</segment>
+  <segment bytes="792369" number="18">EU5BE91ZoiW@1470863940.43678rFXVQjbBvm</segment>
+  <segment bytes="792292" number="19">iugpGaIpVLRtqv3BTP@1470863940.43683js9xqsSdbrc</segment>
+  <segment bytes="420976" number="20">nRXJrn8CEhTjM4IdJNIm@1470863940.436876Cx7HW0KQoNo</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863957" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.47&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="793054" number="1">vAIH2xQwAgS0iV805nj@1470863940.437928CImAOTfQF0V1</segment>
+  <segment bytes="793163" number="2">Ff74pVnf4n1N@1470863940.43796gls5aAuBO2</segment>
+  <segment bytes="793133" number="3">SxUSNWhvzsFl64NrW5RJ@1470863940.43800gQZIEnuOqNs5As26dy</segment>
+  <segment bytes="792923" number="4">aDiga7BIPIJED@1470863940.43804t4slDCEwntEVBc</segment>
+  <segment bytes="792815" number="5">ErgY0k1EtFobj9@1470863940.43809RWnkjLBzoqg</segment>
+  <segment bytes="793070" number="6">PS0SMeyLSe5I0hBvi@1470863940.43813hsQw5Te8OwYsJ</segment>
+  <segment bytes="793113" number="7">04rBEhkqLZEbH@1470863940.43817M0SzTZ8dFcsyncE</segment>
+  <segment bytes="792832" number="8">A86QciMcneK@1470863940.43821s5j2r6gw84</segment>
+  <segment bytes="792759" number="9">NUzlfvKTWpOwxAyqqcOy@1470863940.43826njr9ob690bVctsW</segment>
+  <segment bytes="793048" number="10">59up1RDA1F7s6Q0zW@1470863940.43831VpGo5ArHBEBVUp7Wz</segment>
+  <segment bytes="792840" number="11">W13qF6Pja3V1zdBQqH1@1470863940.43835IAZ5ObZxq0A2nItsX5B</segment>
+  <segment bytes="793029" number="12">9yYp34tmKpXuKw5yyv7N@1470863940.43840I2hDqLHHXpcF1KEa</segment>
+  <segment bytes="793045" number="13">X8TvK6ImCwZlK4vwNQ@1470863940.43845muwRsnYROTj</segment>
+  <segment bytes="792891" number="14">PV0YJ51lHW@1470863940.43848I4s1vfcRBZk33Kji</segment>
+  <segment bytes="793180" number="15">71ntNglJHASvlX1w83bU@1470863940.43853qQ6cyV2l3AE3</segment>
+  <segment bytes="793309" number="16">DG6YL5cmI3r4YPQhQi@1470863940.438579bLgQhcsu4hpJ</segment>
+  <segment bytes="792938" number="17">BxzVdWxW2DGiN6OIE6B@1470863940.43862wLIjvaEj5qZUhltli</segment>
+  <segment bytes="792901" number="18">sB039Wl8A6nik2x92WZ@1470863940.438671XPkbRGReTtOPY2ZGB</segment>
+  <segment bytes="792965" number="19">N6TsUsTM0wNCt@1470863940.43871zOBgHXSrM5h</segment>
+  <segment bytes="421806" number="20">OF1a6ujKXAn@1470863940.43875HgeCq4PDlCvOa6NAD</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863947" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.48&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792611" number="1">C4c9xZAUlkLid@1470863940.4116378eYrDnUFDQi</segment>
+  <segment bytes="792676" number="2">FnTDaJuml4scIrWGy@1470863940.41167GNrhaoWHqSZgMH</segment>
+  <segment bytes="792808" number="3">80OG6WjO3PrKa0yr0L@1470863940.41171IS6V5GQQLSk7y9Uw</segment>
+  <segment bytes="792451" number="4">sEeBf52nuilj@1470863940.41176RaEGGH85vAZbur</segment>
+  <segment bytes="792747" number="5">EnheCIVosajg7Utq@1470863940.41180YFpRtI1fWe</segment>
+  <segment bytes="792698" number="6">1lEATmh6PXd1tIZdGaT@1470863940.411865TnitDZDold92r4w6cv</segment>
+  <segment bytes="792847" number="7">GFJvSdSLnR53v3KD5yA@1470863940.41191mA6dDgouPkvKccMQ9</segment>
+  <segment bytes="792749" number="8">MMqaVm7OC5oYuA0@1470863940.41195y93n8Mp5ONlV39</segment>
+  <segment bytes="792653" number="9">G4qgmTcbnc1GFiw@1470863940.41199egNU27SCq0yv</segment>
+  <segment bytes="792999" number="10">0kg3oOgtcxDqVuHNN2S5@1470863940.41203IzGf5wUDwhE</segment>
+  <segment bytes="792349" number="11">HnY7o35lve4pLRll@1470863940.412092N7uA6wkR3kKxW2wMWs</segment>
+  <segment bytes="792500" number="12">fDqfblwwpDTN@1470863940.41214HnwciVoqqNTU</segment>
+  <segment bytes="792623" number="13">LEguPltUEi@1470863940.41218FXI8tsUmIZN19f2yVv</segment>
+  <segment bytes="792643" number="14">doYO8TPseKy4Ks@1470863940.41222nIpoxyWCBM52Q</segment>
+  <segment bytes="792684" number="15">uvDIfuStus@1470863940.41226XMpdUMxcGWucBE6lL5</segment>
+  <segment bytes="792573" number="16">otpg7LEfWDS@1470863940.41230OVLZY7eowaLlQ</segment>
+  <segment bytes="792744" number="17">nHOCyQ0HnjPJ@1470863940.41237k1vivr6VzZjxTprFNbOU</segment>
+  <segment bytes="792681" number="18">hVEJxzPDg3ScMc@1470863940.41243DU1HK2idInu5</segment>
+  <segment bytes="792999" number="19">59ULBM1HdusAtx9@1470863940.41248ZH9LvvM6bk9</segment>
+  <segment bytes="421366" number="20">iUfV6uRhL6B8G6DTJ@1470863940.41252ptLfiqWcgzLsm4Cf6</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863956" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.49&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792530" number="1">UrP0Tf5yxUSb6U0@1470863940.434926SIp4NNvea</segment>
+  <segment bytes="792564" number="2">lshuCcEMXBfQJuiLqMr7@1470863940.43497PbgQSRlAe14SAMt7HEnL</segment>
+  <segment bytes="792839" number="3">QGBNAOqj2Ex2L7DKorV@1470863940.43502wjTMzP9W4GovBP1</segment>
+  <segment bytes="792732" number="4">FUaiiY8i3aiSmm2OKO@1470863940.43506nzRaGzrb1MQo5</segment>
+  <segment bytes="792486" number="5">n6KToRwUdRwei@1470863940.43510I38cv39n3bn</segment>
+  <segment bytes="792627" number="6">mrektX7nOIXbaTULNjZ@1470863940.43514ralCABDp4X6aZ</segment>
+  <segment bytes="792794" number="7">XUHH5ZHbkWQIwwF@1470863940.43518f3Y6OxFX8YSw</segment>
+  <segment bytes="792316" number="8">KBNNH5gT04@1470863940.435225NXXARZuH0LTpmjN</segment>
+  <segment bytes="792562" number="9">sa3L7l1MHOk@1470863940.43527XM3kRXGOxf4p</segment>
+  <segment bytes="792477" number="10">aPvLvKC3U1OdfFUVE@1470863940.43531gA9zocYO10EEfxVGNq</segment>
+  <segment bytes="792721" number="11">5R1vvxh80ZcckpCVoVO@1470863940.43535kqwHwApwryvk</segment>
+  <segment bytes="792590" number="12">XBLkySTIVkZhGWMVq@1470863940.43539EG3fjAdVsc</segment>
+  <segment bytes="792627" number="13">2G6SzmeGoyXwG2T0bKI@1470863940.43543dDR0OxOG3fzd3</segment>
+  <segment bytes="792571" number="14">lOsTwqnGtg6u0kO2YFfP@1470863940.43548KDEq2GKlvUcottzXc</segment>
+  <segment bytes="792734" number="15">M9v9NFTFJPU3ig1V4@1470863940.43552TDMqhcMiMweIXUrNN8oh</segment>
+  <segment bytes="792628" number="16">wuXleL37VLzz@1470863940.43556Muwhel8186MlsJdHv</segment>
+  <segment bytes="792754" number="17">Md1DA8qy3rPPRY@1470863940.43562mQaI3WqJw3LNe0jb</segment>
+  <segment bytes="793186" number="18">z65cL91mH6K@1470863940.43566nICSHI67is</segment>
+  <segment bytes="792869" number="19">JzpmNa80itkyvrEab@1470863940.43572mV4kT5XM1ik0DE3</segment>
+  <segment bytes="421109" number="20">pYIEPWMCSFun@1470863940.435773iwygNiBBoh6jNi</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863954" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.50&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792606" number="1">mnIhkPD9TnSutU@1470863940.42964uOU4N1Dgy42</segment>
+  <segment bytes="792796" number="2">l86VZ1DolRbHrB@1470863940.42968SFxhRi4HpRACUIF2C4s</segment>
+  <segment bytes="792766" number="3">W0A5PplElki46HhY6@1470863940.42972Hz4V9SqPI3ZWIgvRTsc6</segment>
+  <segment bytes="792540" number="4">Mz1iWowbjw1twJgF@1470863940.42977ldpmPQCDirhyHiLR</segment>
+  <segment bytes="792667" number="5">D4JZwkkI5Qs0f5H@1470863940.42982V7OI3RQTDBMiHSn3</segment>
+  <segment bytes="792716" number="6">0m6uADp2wADAqltRCP@1470863940.42986tQqSo8iJZ7tiXuWlkYQ</segment>
+  <segment bytes="792599" number="7">lwwOzJMLseBBje@1470863940.42991lKd4YjzjZ7bqOA6Vblc</segment>
+  <segment bytes="792930" number="8">99jjhb21Oi2huKJun0CL@1470863940.42995tPmAiQNpbZEw7gX</segment>
+  <segment bytes="792667" number="9">rIHOrrCFgsBOofU7W@1470863940.43000ZvB9wAr4sYIGo4EPQ6</segment>
+  <segment bytes="792627" number="10">LuEnKI9CZWI3tdNwNC@1470863940.43005FR3Y1onf22nq</segment>
+  <segment bytes="792611" number="11">DUxGF7YQPkFo@1470863940.43009SxkB7aQTHE8QsyVNQJ</segment>
+  <segment bytes="792477" number="12">zzLIEbPuiigNueKBFe@1470863940.43013omlNR8Ik39IBdAnQ</segment>
+  <segment bytes="792342" number="13">Rd179exOjH78ppsKQjC6@1470863940.43018i6WxJ6XNGwrxojm</segment>
+  <segment bytes="792667" number="14">9ZqlWUqmXeSkI0bwYGg@1470863940.43022c0IlUT19dRI88yd</segment>
+  <segment bytes="792411" number="15">ZyIJzGmFLwFOi@1470863940.43027oWclmKD3RnA0PAC4E7W</segment>
+  <segment bytes="792683" number="16">j2hhYv4Yih@1470863940.430311mA9368MjLjFaGWW5r</segment>
+  <segment bytes="792689" number="17">uYGK3kJN9jcF4tZmc@1470863940.43035V0aSFpIlY9</segment>
+  <segment bytes="792564" number="18">xp9XPG2LPSP6e2VpHp@1470863940.43040vMfMqHlkqLENVB</segment>
+  <segment bytes="792686" number="19">V84XJIz0v6hnT2D@1470863940.43044Iampmy9PK81apW0D</segment>
+  <segment bytes="421233" number="20">3mI479uhDXX4J@1470863940.4304802CmzwQ494dUAS02MCs</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863955" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.51&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792617" number="1">m64tSyQcSIVjmw@1470863940.43156MABWI1EFJRZTlMx</segment>
+  <segment bytes="792635" number="2">z8LtH9KoowpvDPwnXy4U@1470863940.43160wNfpPHg9FNlLEoalUxe</segment>
+  <segment bytes="792726" number="3">7yv8sAh7DJEGDKBtoy5@1470863940.431657kMfA2lMSdojf8l8DEO</segment>
+  <segment bytes="792646" number="4">28rSvOSIbbFKVkCyL@1470863940.43170biildcVsFrHah</segment>
+  <segment bytes="792634" number="5">a6jUCivmMKavECIZQpb@1470863940.43174p6t9TZDpO1dMBs</segment>
+  <segment bytes="792590" number="6">8zSGcwGYC6oAeDnGu0Y@1470863940.431794vzxLx3xCiTJ</segment>
+  <segment bytes="792675" number="7">67Hpo8U28qt7wt@1470863940.431836FyJ39E2j6CgLsXfw</segment>
+  <segment bytes="792686" number="8">yzOzuc1PTU@1470863940.43188rT1aeipiaM</segment>
+  <segment bytes="792834" number="9">pw1bRNDJfLro5Br474A8@1470863940.431929DDF02WDxMjvrxQk1jA</segment>
+  <segment bytes="792816" number="10">xbFsfxXwvpp1WEU@1470863940.43196UH3keFBQFkTsoKAwj9</segment>
+  <segment bytes="792620" number="11">sGpjwHFeaSw@1470863940.43200QyIXJpbSPVUtuH7Ql21</segment>
+  <segment bytes="792778" number="12">uiaeBs4BNO8Vn58MM@1470863940.43205wuqqKkL8iZsjNEub</segment>
+  <segment bytes="792610" number="13">76bAjqwOX1b9e@1470863940.43210KJ9DQFtNem</segment>
+  <segment bytes="792905" number="14">p1GvlVr2nIU5Iopq6ly@1470863940.43214RMckmdvGmcI</segment>
+  <segment bytes="792793" number="15">bDraGrw4lL1viWSuOZ4R@1470863940.43218r6m0jQzpdcD7YBPF</segment>
+  <segment bytes="792893" number="16">GW2VijW1k4kiLln@1470863940.43222m6WbP1IRB9WO0sXa7eu</segment>
+  <segment bytes="792653" number="17">3Cffutp4zo@1470863940.43227upcKlOzLvR</segment>
+  <segment bytes="792670" number="18">4touOTuUrqsRtTt9@1470863940.43232ollQGthLzRZusxws7uZ</segment>
+  <segment bytes="792544" number="19">YM4Z8ZDmkkEWJTdru@1470863940.43237IGaUFC3Swg3Ag</segment>
+  <segment bytes="421314" number="20">xI0qapRvoBpfi5ew@1470863940.43241IeGkCVcmbo</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863943" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.52&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792436" number="1">ud9FglVrR5KcXH@1470863940.40026dE0rFI38AMAJGSqygQUb</segment>
+  <segment bytes="792070" number="2">N6R8wMeh1E@1470863940.40030GD4DpuEhLBjil</segment>
+  <segment bytes="792285" number="3">t4QUseeVmgpKZULbc@1470863940.40034Mm8hFYixoab8m7</segment>
+  <segment bytes="792175" number="4">WfdL7INt2wID@1470863940.40039nfQhqq17dDJ</segment>
+  <segment bytes="792105" number="5">BVIawDBmPPacmfKut6wz@1470863940.40043SIuypqaQC08tyouAI6</segment>
+  <segment bytes="792262" number="6">0l1n3bFv1XL@1470863940.40048T1QaKrv67ITauAXlK9wF</segment>
+  <segment bytes="792059" number="7">6VVYEmInBQE7BPKAa9vH@1470863940.40052FSPBUwoJNPiUGFJB</segment>
+  <segment bytes="792236" number="8">nwaXiE5ywIJg@1470863940.40057YZBLrMMwOarApmnII</segment>
+  <segment bytes="792265" number="9">kj6yJXfNq6REV@1470863940.40062YCDdb0voxqNcFniV9</segment>
+  <segment bytes="792301" number="10">ZV0sHlc3OSvSU@1470863940.400679dtmyjvJZvEBHat9VQv6</segment>
+  <segment bytes="792269" number="11">q6LrGKvX9tuUsHoV1s@1470863940.40072yuBxFroDSAJQEhvqn</segment>
+  <segment bytes="792271" number="12">RtcxCjicjGS4@1470863940.40077oQFGN3hN7wbadwa06e</segment>
+  <segment bytes="791990" number="13">udiyWyhZ9uDyJH7@1470863940.400822jJBJVkWUkGjv3NyV</segment>
+  <segment bytes="792128" number="14">hotlUtylZOZ@1470863940.40086SdTsg8LM98A0R</segment>
+  <segment bytes="792290" number="15">7cn2sxYoRh1vvlFQm0UK@1470863940.40091OHXkT3RmBGzmj8HPNWG</segment>
+  <segment bytes="792373" number="16">g6dQAmfz4sYUBiqK@1470863940.40095q7lOrvmoYpyA</segment>
+  <segment bytes="792380" number="17">nAiEfEwzA6y6r5poYzM@1470863940.40100NATq7gJFmOAvw8RHSzq</segment>
+  <segment bytes="792226" number="18">8yyswLoSJQsDqY@1470863940.40105oLWdWBKuWWzW</segment>
+  <segment bytes="792137" number="19">aInyMLcixw8A1eEkQYZ@1470863940.40109RKgei0UtENSi</segment>
+  <segment bytes="421118" number="20">PKqcAjYrm879azKsn@1470863940.40114A9GWkN8xz45I644H557</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863950" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.53&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792285" number="1">YC3m4bcMq976rMhY@1470863940.419889oREOlilRkQyK8cKYQAu</segment>
+  <segment bytes="792627" number="2">TrwOLWZPfC7B7XxGouON@1470863940.41993j2mIDu7A5JIupgQ</segment>
+  <segment bytes="792794" number="3">gQ7ZEtwSOw@1470863940.41997ot3A7s02kD0mvpSihDO</segment>
+  <segment bytes="792479" number="4">c79AFD6ANKCdD8GlYU@1470863940.420025w0ycHCf1q22pD3CEkT</segment>
+  <segment bytes="792682" number="5">irOnh7FRyFdXYu8@1470863940.42006rTG4bsGnYRZRMYH</segment>
+  <segment bytes="792506" number="6">WxnoEohPaebAGE8@1470863940.42011bNiYwha5MW</segment>
+  <segment bytes="792533" number="7">MKDdQ1VF1bX@1470863940.42016z7jRc0HG4jB</segment>
+  <segment bytes="792390" number="8">3M37n8fJFjVfni@1470863940.42020CcUsQPRNwlUG8Y</segment>
+  <segment bytes="792469" number="9">9n1FS2ZcvQIj5yl@1470863940.42025UcUTnnZ7MS</segment>
+  <segment bytes="792620" number="10">j04iedhEbHyHxslv2yI@1470863940.420296wvszDNT3dcyfWZ</segment>
+  <segment bytes="792558" number="11">EWE4KfkwHXTe6Ef9q@1470863940.42035VTp6eEIkod53R</segment>
+  <segment bytes="792434" number="12">z6vI5O9ER5MXrAmS@1470863940.420397s5slfNG84gxQoP</segment>
+  <segment bytes="792570" number="13">HiwlIdFnjbarZ68f5vPQ@1470863940.420443VbBy64FjuxhRGB5</segment>
+  <segment bytes="792504" number="14">lnqV9ZcUPsgKMqLcdaS7@1470863940.42049IegjriDfNcJf</segment>
+  <segment bytes="792278" number="15">E1nDj4eC9B@1470863940.42053WG0A1TFHDgjAb3Ai0</segment>
+  <segment bytes="792637" number="16">TpH8SsfQbHq2xg@1470863940.42057BoZjkvyQgubE4</segment>
+  <segment bytes="792598" number="17">TmSDqM8IsGFVYYqNoJqL@1470863940.42062RRg7N582wwLSrN2HUsgS</segment>
+  <segment bytes="792421" number="18">1w0u7rvCGzbKKzhmGiCB@1470863940.42067b50BRBV7hchdEb0a82</segment>
+  <segment bytes="792659" number="19">fLjjqL7K62@1470863940.42071b3meaYc97wD3nh8</segment>
+  <segment bytes="421321" number="20">nzyaF0gz8Vk@1470863940.42075TprHhLPLi9UNYgBU</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863944" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.54&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792505" number="1">mBvqbfhRupH8UHDJ@1470863940.40304EFhZuXP9kS</segment>
+  <segment bytes="792628" number="2">2brVdk9CtvU8y@1470863940.403084uq9HGa2RyhLdJcPX</segment>
+  <segment bytes="792554" number="3">g578HbnTFF1kzey4G8@1470863940.40313DQecBD9ajXylb</segment>
+  <segment bytes="792647" number="4">NvUQq0vy8WLopIllllb@1470863940.40317U8o9LByU4r</segment>
+  <segment bytes="792552" number="5">0JzxXrQeOFmQqeoez@1470863940.40321FOzA9mgYFWJmhnkqIX</segment>
+  <segment bytes="792754" number="6">qij0eWSuPQrHawQ8@1470863940.40326zL6vuo8OwYAGzooJpS</segment>
+  <segment bytes="792649" number="7">kNTeBQK8HJWqsk@1470863940.40330YmX4eQH7wQJosGCju</segment>
+  <segment bytes="792664" number="8">Pn6RRf04ESdlK39m@1470863940.40335Wu55eaYua042uOWclSD</segment>
+  <segment bytes="792575" number="9">NDIvcmEN3YR@1470863940.40339s1GPqg7u0GiIj5Jfk</segment>
+  <segment bytes="792609" number="10">BGrhqbePNX4blO7KJV@1470863940.403432O6uTeS0Rq</segment>
+  <segment bytes="792485" number="11">IgWKbCdbM7s@1470863940.40348IKAKQCenhet</segment>
+  <segment bytes="792550" number="12">IRCXUv6Y9uK78Uqdbmt@1470863940.40352oFO3pNs9UMiPEOu</segment>
+  <segment bytes="792775" number="13">XDZprBq1UByhnSQXVB@1470863940.40356Ywkq9ywjdQh8z</segment>
+  <segment bytes="792709" number="14">uSRRFQD6ETWAja@1470863940.403602mEBlVplsXr6TIEqzl4</segment>
+  <segment bytes="792707" number="15">gqDmE5uM8iBiGm@1470863940.40365ojC2tz8Tz9K6YU</segment>
+  <segment bytes="792396" number="16">hrnx9hKhA6kp81r@1470863940.40369FDW4MDz4Eiv</segment>
+  <segment bytes="792673" number="17">yWDJQjR359DqXldNlb@1470863940.40373jUIoh4GWZY6z9jLhW9</segment>
+  <segment bytes="792704" number="18">pzT0tWEgqi1z8a@1470863940.403789fXk1qXCQyLyB</segment>
+  <segment bytes="792594" number="19">ZH5HeQCZzh61XVW@1470863940.40382M0SmmNesSOtDR</segment>
+  <segment bytes="421224" number="20">0muYU0hp35wdqnor@1470863940.40386uABa0pPUT0u2R</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863945" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.55&quot; yEnc (1/20)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792597" number="1">2lTxerg0DsTYWTipn2@1470863940.40637b9k80BJpAGqQt4Tq</segment>
+  <segment bytes="792228" number="2">14X1dUYdpq5OQRWf1GVQ@1470863940.40642bgIZZDrAF0SkklvR</segment>
+  <segment bytes="792663" number="3">EyEi4ICJGhYAhxSMqv@1470863940.40646gwvZgGoNpgMGm02QLjj</segment>
+  <segment bytes="792591" number="4">BE9c2tyv6RXSD7mP@1470863940.40651WL1tgcQjdqDRODMjodw</segment>
+  <segment bytes="792804" number="5">wRM5YDootDs3HU@1470863940.40656DD09fvsRVKIkVyVj</segment>
+  <segment bytes="792539" number="6">LzCM5aagVY9ZN73nM@1470863940.40661Etv3UtQrVoaIL1koESo</segment>
+  <segment bytes="792702" number="7">q0zGVqOksW92@1470863940.40666PfPuS6gBgwlM</segment>
+  <segment bytes="792735" number="8">mpRl0rvzReTUhB1bmvYF@1470863940.40671L1f5YMOMr3</segment>
+  <segment bytes="792641" number="9">iNA0DbitBp@1470863940.40675Odawanfk8a0Vb</segment>
+  <segment bytes="792799" number="10">eQgnyT4rSHr0yk3iQ@1470863940.40679axKGHM7nhND</segment>
+  <segment bytes="792533" number="11">EwZFUqPOIkLfP@1470863940.406839emLJKH5Jt6bvXMDzWx</segment>
+  <segment bytes="792647" number="12">Vzeynp5P0F4@1470863940.406873a8RnQRuly8b</segment>
+  <segment bytes="792636" number="13">g4VpOLEaZXLy@1470863940.40692ZcHG8lGVWD3UMO7K7</segment>
+  <segment bytes="792647" number="14">iqc6CF5a3BhGmnYxtjsp@1470863940.40698ihC7R9WOKXFKA</segment>
+  <segment bytes="792620" number="15">2U4pAX1BjyA5GClIOE@1470863940.40703WImQpmUvhNapT</segment>
+  <segment bytes="792639" number="16">e9dBhV3jdt9LWQ@1470863940.40707Evm7USDRsdOGX3lmCC</segment>
+  <segment bytes="792681" number="17">Sm8pHlmXRZ06s@1470863940.40712gqBtLyYz4Wxj</segment>
+  <segment bytes="792482" number="18">wJ5RjNlmQSr@1470863940.40717YEpkCihJFO</segment>
+  <segment bytes="792566" number="19">IJthXZsU65PRMwhd@1470863940.40722ABDqHIEbay99bjy</segment>
+  <segment bytes="421286" number="20">SELpWGa7cAcB7Q8d@1470863940.407278yXm1ah7Q7PoJ</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863942" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.par2&quot; yEnc (1/1)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="53421" number="1">z9bHTTe7MBIQs@1470863940.39740SUE5DLdqirYU</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863955" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.vol000+01.par2&quot; yEnc (1/1)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="411812" number="1">7osjtaRg4Ka8AB@1470863940.43054Ejcub6v4vl</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863952" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.vol001+02.par2&quot; yEnc (1/2)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792659" number="1">d3bHjvLz6J5CnRujoO1y@1470863940.42308vJ5vMBJSuBvO</segment>
+  <segment bytes="30754" number="2">u1dsxYUAGpEQ@1470863940.42312hrQUP6HyGYdc</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863948" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.vol003+04.par2&quot; yEnc (1/3)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792670" number="1">hxjOdXrlQlOZ72@1470863940.413479NbAuX9KlQlCfI</segment>
+  <segment bytes="792685" number="2">9UtbZkNo2VKv@1470863940.41352W0Qmx7yIdYdy46LKepb</segment>
+  <segment bytes="8034" number="3">5tV9s9MqGsoxRVhQM@1470863940.41356CTy6rRDFtzACvCkjXz</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863957" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.vol007+08.par2&quot; yEnc (1/4)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792724" number="1">gtRz0cTuussdNF@1470863940.43582KtzeqwluZrHTh</segment>
+  <segment bytes="792754" number="2">WBmOQyK6o9J7Ze0HWZ6@1470863940.43587woeFVaIpWLpmzUnOPIgC</segment>
+  <segment bytes="792631" number="3">4ajCyBb2W70P@1470863940.43592CAK3yJwdd7peA4zvFQ</segment>
+  <segment bytes="701922" number="4">IHZ0anVIrSP1o@1470863940.43596RWiPUTqJUjAJ</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863951" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.vol015+16.par2&quot; yEnc (1/8)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792785" number="1">eiZe2mn4m69Ru6SqEo@1470863940.42177DhIy3Sbt9TmT6i</segment>
+  <segment bytes="792604" number="2">OwQsLOgEbtR3E@1470863940.42181LaT2PiBY0uKkJHIHr</segment>
+  <segment bytes="792854" number="3">gG8su57ZUJnQ5E@1470863940.42186lKZgUD8SvLpj</segment>
+  <segment bytes="792495" number="4">jv28Yio7mqbqfe8ik@1470863940.42190GOtk3NKAzfEtg</segment>
+  <segment bytes="792764" number="5">hh3E6o404SD1FpIjvn4@1470863940.42195xygLnTnK2f</segment>
+  <segment bytes="792721" number="6">a6HpkmtjSt0n22QQEtOn@1470863940.421998KzXQEiYWGkHfH</segment>
+  <segment bytes="792782" number="7">Qrt5VkVPv1MHMBLYGkyE@1470863940.42204EbiVE7txJkJEKUgT4elY</segment>
+  <segment bytes="451970" number="8">zlex9qK95I@1470863940.42209km3sZxP5lG4Ojm</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863945" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.vol031+32.par2&quot; yEnc (1/15)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792700" number="1">iUh56nSpgCMIBtjKcuYs@1470863940.40482Czs9UMJVU5</segment>
+  <segment bytes="792805" number="2">H8RZKkxY1eXSPNJipgz@1470863940.404861PB6o3qTuid</segment>
+  <segment bytes="792540" number="3">FvBkCHvN2O@1470863940.40490y96k5Od1dirMQZvnKBPe</segment>
+  <segment bytes="792692" number="4">ONGka2OdjsKGv0S@1470863940.40494ewPgxZXExGcvn1uYv</segment>
+  <segment bytes="792937" number="5">2u9CBx7Ur5UXAcfRG4@1470863940.404987w4Dbp1PpLZpWa8</segment>
+  <segment bytes="792619" number="6">lezRs5J0dNNtEjJWY3@1470863940.40503XfPZHxLC6997nAS</segment>
+  <segment bytes="792701" number="7">MIeNyNkuUCJQ1As7@1470863940.40507hUnEP4jyvEGlTVvCTv</segment>
+  <segment bytes="792502" number="8">PBw46njLDHby@1470863940.40516sMzt5DhBwwA9F</segment>
+  <segment bytes="792570" number="9">92HJ6qbCk9MA5AwYTlp@1470863940.40521yfaCFfq2U7KNqw8qz</segment>
+  <segment bytes="792874" number="10">t5QHGswL0wOINJKyy@1470863940.40525WVakmaJHlMG</segment>
+  <segment bytes="792720" number="11">lmhSWFLS09F5cJ@1470863940.40529slSEYipVWPkiCpFh</segment>
+  <segment bytes="792820" number="12">NfRj7bbCHTrBFzgD0a@1470863940.40533DLslt1CSQgSc</segment>
+  <segment bytes="792904" number="13">H5JwFj7GL6WlfoeeJ@1470863940.40538HtkqWuhso27EaKbsdj</segment>
+  <segment bytes="792831" number="14">V3Yj53OvYRq@1470863940.40542wiUy0swN7oUqyY4pXN</segment>
+  <segment bytes="691258" number="15">DeRgNO7nfmWsb@1470863940.40546DN47RwuCq8qyzcHk6Imx</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863958" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.vol063+64.par2&quot; yEnc (1/30)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792666" number="1">ZEAeiQ78Coi468rz@1470863940.43881GSNnshmjFx3</segment>
+  <segment bytes="792900" number="2">tB9lqEUXmIwmZjKn5@1470863940.43885n2qZ10fHmm</segment>
+  <segment bytes="792820" number="3">dGBp1GRrTW@1470863940.43889yVHAXLURBV1CCq3UZgU</segment>
+  <segment bytes="792842" number="4">a3qAsNuLWu@1470863940.43894yrOOMyjP5nTJeLwpm</segment>
+  <segment bytes="792480" number="5">y158iqqk1K2FYrqVn@1470863940.43898fsTA5ZFKhHgpMNSCPkH</segment>
+  <segment bytes="792844" number="6">nwPCjvbwSSUgvO@1470863940.43903ujWZlSEwH4</segment>
+  <segment bytes="792696" number="7">hZj2j21aKBg@1470863940.43907v6E8EPeB5amHB</segment>
+  <segment bytes="792663" number="8">APGZBo0qjjsFvw14@1470863940.43911D9UXsBJxTZLM</segment>
+  <segment bytes="792783" number="9">lQXUxgprK1PKn@1470863940.439156hfDmK4eIAcnHA4</segment>
+  <segment bytes="792690" number="10">YsTUZSUjqjaY@1470863940.43919UrkelqPt2QlUucwUF</segment>
+  <segment bytes="792827" number="11">KEkljceKVqbmfRmSNI@1470863940.43924x6sDt41GK1mKUFoAM</segment>
+  <segment bytes="792899" number="12">IeC69VEy1QexwI@1470863940.439282c3HqAsYzH8jPQZ</segment>
+  <segment bytes="792607" number="13">76bSs43bRL08EGp6mF@1470863940.43933ymHVDLSq9qR</segment>
+  <segment bytes="792730" number="14">AHetYRJBC3GZNe4B3MdV@1470863940.43937Za8Wt1AT8R7P0l48</segment>
+  <segment bytes="792808" number="15">LKcBHk4V99v95Y@1470863940.43941Tryectfq0WGD844FeWSB</segment>
+  <segment bytes="792705" number="16">9EeUZrDJjCwN@1470863940.43946lt7f6pUwQL</segment>
+  <segment bytes="792813" number="17">jSCbRwq5VbtO@1470863940.439503jBOtZND0aHT</segment>
+  <segment bytes="792896" number="18">3QzlKbxvdoD14jIjs@1470863940.43954ccGN9hn1Bl</segment>
+  <segment bytes="792606" number="19">EyiiaI9Itc@1470863940.43958yFp4PYHZsWYGQsHaGqV</segment>
+  <segment bytes="792765" number="20">VJA9xwHqAMDTDS9@1470863940.4396299FimxpCanm6</segment>
+  <segment bytes="792573" number="21">4FcprFVD4UTXwI88T2@1470863940.43966GS1dPv8QLbJzEZAvT1</segment>
+  <segment bytes="792939" number="22">MEx7HXF3wAQwcIkVt@1470863940.43971aKbOX0DJW0IkvY8X</segment>
+  <segment bytes="792453" number="23">0Q5uFi4PhRLT653@1470863940.43975qv7VZHfAkoDLK</segment>
+  <segment bytes="792750" number="24">DuwHY2SLi9MIVp@1470863940.4397988ud4fX7hHgmbCxO</segment>
+  <segment bytes="792832" number="25">8fC4wUZgaB3FBn4h@1470863940.43985nI3p8ME5fDAGJVlA</segment>
+  <segment bytes="792720" number="26">4eDdmyPMONhUSvdLfu@1470863940.43989UwZDTMRRR3T</segment>
+  <segment bytes="792757" number="27">RBlHyP50ilrO@1470863940.43993x5cMQ8xpgGP</segment>
+  <segment bytes="792609" number="28">FN0SVXl6RvbrQTL4@1470863940.439977UP0hDDdgpH</segment>
+  <segment bytes="792728" number="29">Z6J0LgiqDNU@1470863940.44001vKpWcN3Zig</segment>
+  <segment bytes="324750" number="30">1KgOONurUE@1470863940.44005KJ4MoP1CYvPkWjWEx0FN</segment>
+ </segments>
+</file>
+<file poster="6946deeba73d5bd5c53caca7a65061b0 &lt;gp49sVi0h3z3mMfK9@j7r4jo.ZD&gt;" date="1470863947" subject="&quot;becc9e87b369771eb6a5cd714a6604fa.vol127+74.par2&quot; yEnc (1/34)">
+ <groups>
+  <group>alt.binaries.tv</group>
+ </groups>
+ <segments>
+  <segment bytes="792670" number="1">SoGj8RJeBC@1470863940.40999XQGf4yT9AC</segment>
+  <segment bytes="792765" number="2">oODEVAg47n7vzxZqLB@1470863940.41003hFGI0xDnC0</segment>
+  <segment bytes="792506" number="3">IBukoEKuFP0@1470863940.410063q1dRHYH8CNj10kemP</segment>
+  <segment bytes="792766" number="4">kDgSD0mrgKC@1470863940.41011MAp9PZreQD</segment>
+  <segment bytes="792761" number="5">W7sSixG5IkDMdMQwWRW@1470863940.41015lEuzmTFK6dIUgNNz8</segment>
+  <segment bytes="792897" number="6">ba716yzUAKbC1lWMJ@1470863940.41019SkywAQaLC4eYvIkut3mv</segment>
+  <segment bytes="792811" number="7">AaBMUCHjPrgT750Ap@1470863940.410248dJMcnkbdQv</segment>
+  <segment bytes="792767" number="8">xT8dnZNFVJHxSWVmUpP@1470863940.41028U9wtLkvEyhYD</segment>
+  <segment bytes="792722" number="9">0TaaXkuvXJhw9@1470863940.41032ltGXsTnsnPDyVz9A</segment>
+  <segment bytes="792572" number="10">t6J6Ump1yCOrVJB5@1470863940.41037rs9gbNkxhGxL</segment>
+  <segment bytes="792624" number="11">OI8EY1ezsX@1470863940.41041pBHEB6UB2nuGLF89Q</segment>
+  <segment bytes="792572" number="12">Tb5utwFGQ6i@1470863940.410467hgd2onhpw</segment>
+  <segment bytes="792700" number="13">ArmrtJSASvtfALJbWJf@1470863940.41050ieGaF1XKp0n3GPwhW</segment>
+  <segment bytes="792631" number="14">70EFLEDpBOf5FgWq@1470863940.410545DUiWpOz9s</segment>
+  <segment bytes="792755" number="15">85ypF6hNWSv8LxJb@1470863940.41060h2U22GcIFH9PPGVhAe</segment>
+  <segment bytes="792728" number="16">yb9QUJ2nN0Yw@1470863940.41065osldlCd4FTv8CEi1k</segment>
+  <segment bytes="792712" number="17">QtJF6dhgsOzEUpOPeDG@1470863940.41069DZtwm8Iega6OAi</segment>
+  <segment bytes="792544" number="18">GeMrBBC6Ctz@1470863940.41073F9oF7S7e6PDH0</segment>
+  <segment bytes="792939" number="19">8WmofMUnNCxN6h@1470863940.41077fe1SXtUdpZbQPBfvP</segment>
+  <segment bytes="792675" number="20">qgpXb8ayR99@1470863940.41082uh2iLAZpgR</segment>
+  <segment bytes="792838" number="21">cLlR43t0BLNS2@1470863940.41087bXRAGq3gNjZxg0bMF</segment>
+  <segment bytes="792740" number="22">U6FKzgKdwpVZ@1470863940.41092ZhfrzD5CybVRbw</segment>
+  <segment bytes="792671" number="23">9u5KQLySdI@1470863940.41100NFbJIilOIAmirHUFK</segment>
+  <segment bytes="792790" number="24">NPUdjn2VWltNEq@1470863940.41106nYHKlxZEiDwRyb7</segment>
+  <segment bytes="792574" number="25">criMcUon55kvzxU@1470863940.41112RpOsJzninA</segment>
+  <segment bytes="792621" number="26">Vwjld2KIZZTSMFk@1470863940.41116uPK0G4ltvz</segment>
+  <segment bytes="792698" number="27">GPd0KnqODLmk@1470863940.41120q66zAQJK97</segment>
+  <segment bytes="792833" number="28">olHPsVn6wex61H@1470863940.41124wNnhJuYR49dXdaOBTc</segment>
+  <segment bytes="792515" number="29">CJrVvNqaVJAe0FFdWcc@1470863940.41128wXFFEsji3L</segment>
+  <segment bytes="792643" number="30">NdJoRxAvC4Q0b@1470863940.41133YnGearO98mO9ChOqC</segment>
+  <segment bytes="792696" number="31">alc1oSrxCMCz@1470863940.41142A4rdohA7aUdO</segment>
+  <segment bytes="792807" number="32">oVxvSKxrDsNz02@1470863940.41147GTOOLfaUl3TM</segment>
+  <segment bytes="792704" number="33">4uBfIKZTxiSS9D7@1470863940.41151Vs0BMCWc44</segment>
+  <segment bytes="738535" number="34">hlVS4J2up8eEHXrZw6m4@1470863940.41155WNnpGrmm1OlDG8NnJeB</segment>
+ </segments>
+</file>
+<!-- generated by newznab 0.2.3pz -->
+</nzb>
